@@ -1,0 +1,29 @@
+t # 0
+v 0 Burcu
+v 1 1.2019
+v 2 2019
+v 3 1.1.2019
+v 4 Burcu_tweet_0
+v 5 Bugun
+v 6 hava
+v 7 cok
+v 8 guzel
+v 9 Merve
+v 10 2.1.2019
+v 11 Merve_tweet_1
+v 12 sicak
+e 0 4 1
+e 1 2 1
+e 1 3 1
+e 1 10 1
+e 3 4 1
+e 4 5 1
+e 5 6 1
+e 5 11 1
+e 5 7 1
+e 6 7 1
+e 7 8 1
+e 7 12 1
+e 9 11 1
+e 10 11 1
+t # -1

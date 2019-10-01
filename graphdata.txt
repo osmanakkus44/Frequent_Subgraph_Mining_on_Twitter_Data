@@ -1,0 +1,4308 @@
+t # 0
+v 0 605871408
+v 1 11.2016
+v 2 2016
+v 3 6.11.2016
+v 4 tweet_30366:605871408
+v 5 Binali
+v 6 Yıldırım
+v 7 o
+v 8 çağrısının
+v 9 nasıl
+v 10 bir
+v 11 risk
+v 12 taşıdığını
+v 13 biliyor
+v 14 mu
+e 0 4 1
+e 1 2 1
+e 1 3 1
+e 3 4 1
+e 4 5 1
+e 5 6 1
+e 6 7 1
+e 7 8 1
+e 8 9 1
+e 9 10 1
+e 10 11 1
+e 11 12 1
+e 12 13 1
+e 13 14 1
+t # 1
+v 0 1416636571
+v 1 11.2016
+v 2 2016
+v 3 7.11.2016
+v 4 tweet_30367:1416636571
+v 5 Güven
+v 6 Gürkan
+v 7 Öztan:
+v 8 İktidar
+v 9 bloku
+v 10 üç
+v 11 temel
+v 12 parçadan
+v 13 oluşuyor;
+v 14 Saray,
+v 15 AKP
+v 16 ve
+v 17 MHP
+v 18 605871408
+v 19 tweet_30368:605871408
+v 20 HDP'li
+v 21 vekil
+v 22 birbirine
+v 23 girdi:
+v 24 "Alkole
+v 25 başlamış
+v 26 belli
+v 27 ki",
+v 28 “Sarhoş
+v 29 olmak
+v 30 bile
+v 31 yetmez”
+v 32 tweet_30369:1416636571
+v 33 tweet_30370:605871408
+v 34 tweet_30371:1416636571
+v 35 tweet_30372:605871408
+v 36 tweet_30373:1416636571
+v 37 tweet_30374:1416636571
+v 38 HDP’nin
+v 39 Meclis
+v 40 kararı
+v 41 ne
+v 42 anlama
+v 43 geliyor?
+v 44 tweet_30375:605871408
+v 45 3233892120
+v 46 tweet_30376:3233892120
+v 47 NETAŞ
+v 48 TELEKOM.
+v 49 haber,
+v 50 yorum
+v 51 analizleri
+v 52 !
+v 53 ##NETAS
+v 54 #hisse
+v 55 #borsa
+v 56 #bist
+v 57 #finans
+v 58 #ekonomi
+v 59 #dolar
+v 60 #euro
+v 61 tweet_30377:3233892120
+v 62 KÖRFEZ
+v 63 GMYO
+v 64 ##KRGYO
+v 65 tweet_30378:3233892120
+v 66 GARANTİ
+v 67 YAT.
+v 68 ORT.
+v 69 ##GRNYO
+v 70 tweet_30379:3233892120
+v 71 ALKİM
+v 72 KAĞIT
+v 73 ##ALKA
+v 74 tweet_30380:3233892120
+v 75 PEGASUS
+v 76 ##PGSUS
+v 77 tweet_30381:3233892120
+v 78 DOĞAN
+v 79 HOLDİNG
+v 80 ##DOHOL
+v 81 tweet_30382:3233892120
+v 82 ALTINYAĞ
+v 83 ##ALYAG
+e 0 4 1
+e 0 32 1
+e 0 34 1
+e 0 36 1
+e 0 37 1
+e 1 2 1
+e 1 3 1
+e 3 4 1
+e 3 19 1
+e 3 32 1
+e 3 33 1
+e 3 34 1
+e 3 35 1
+e 3 36 1
+e 3 37 1
+e 3 44 1
+e 3 46 1
+e 3 61 1
+e 3 65 1
+e 3 70 1
+e 3 74 1
+e 3 77 1
+e 3 81 1
+e 4 5 1
+e 5 6 1
+e 6 7 1
+e 7 8 1
+e 8 9 1
+e 9 10 1
+e 10 11 1
+e 11 12 1
+e 12 13 1
+e 13 14 1
+e 14 15 1
+e 15 16 1
+e 15 19 1
+e 15 32 1
+e 15 33 1
+e 15 34 1
+e 15 35 1
+e 15 36 1
+e 16 17 1
+e 16 20 1
+e 16 50 1
+e 16 51 1
+e 18 19 1
+e 18 33 1
+e 18 35 1
+e 18 44 1
+e 20 21 1
+e 21 22 1
+e 22 23 1
+e 23 24 1
+e 24 25 1
+e 25 26 1
+e 26 27 1
+e 27 28 1
+e 28 29 1
+e 29 30 1
+e 30 31 1
+e 37 38 1
+e 38 39 1
+e 38 44 1
+e 39 40 1
+e 40 41 1
+e 41 42 1
+e 42 43 1
+e 45 46 1
+e 45 61 1
+e 45 65 1
+e 45 70 1
+e 45 74 1
+e 45 77 1
+e 45 81 1
+e 46 47 1
+e 47 48 1
+e 48 49 1
+e 49 50 1
+e 49 63 1
+e 49 68 1
+e 49 72 1
+e 49 75 1
+e 49 79 1
+e 49 82 1
+e 51 52 1
+e 52 53 1
+e 52 64 1
+e 52 69 1
+e 52 73 1
+e 52 76 1
+e 52 80 1
+e 52 83 1
+e 53 54 1
+e 54 55 1
+e 54 64 1
+e 54 69 1
+e 54 73 1
+e 54 76 1
+e 54 80 1
+e 54 83 1
+e 55 56 1
+e 56 57 1
+e 57 58 1
+e 58 59 1
+e 59 60 1
+e 61 62 1
+e 62 63 1
+e 65 66 1
+e 66 67 1
+e 67 68 1
+e 70 71 1
+e 71 72 1
+e 74 75 1
+e 77 78 1
+e 78 79 1
+e 81 82 1
+t # 2
+v 0 923909491
+v 1 11.2016
+v 2 2016
+v 3 8.11.2016
+v 4 tweet_30383:923909491
+v 5 Şimşek’e
+v 6 göre
+v 7 IŞİD’i
+v 8 terör
+v 9 örgütü
+v 10 listesine
+v 11 alan
+v 12 ilk
+v 13 ülke
+v 14 Türkiye
+v 15 1416636571
+v 16 tweet_30384:1416636571
+v 17 605871408
+v 18 tweet_30385:605871408
+v 19 565848357
+v 20 tweet_30386:565848357
+v 21 RT
+v 22 @borfinfinansedu:
+v 23 Elmas
+v 24 Formasyonu
+v 25 (Diamond
+v 26 Formation)
+v 27 @ahmet_mergen
+v 28 eğitiminde
+v 29 #teknikanaliz
+v 30 #borsa
+v 31 #egitim
+v 32 #h…
+e 0 4 1
+e 1 2 1
+e 1 3 1
+e 3 4 1
+e 3 16 1
+e 3 18 1
+e 3 20 1
+e 4 5 1
+e 5 6 1
+e 5 16 1
+e 5 18 1
+e 6 7 1
+e 7 8 1
+e 8 9 1
+e 9 10 1
+e 10 11 1
+e 11 12 1
+e 12 13 1
+e 13 14 1
+e 15 16 1
+e 17 18 1
+e 19 20 1
+e 20 21 1
+e 21 22 1
+e 22 23 1
+e 23 24 1
+e 24 25 1
+e 25 26 1
+e 26 27 1
+e 27 28 1
+e 28 29 1
+e 29 30 1
+e 30 31 1
+e 31 32 1
+t # 3
+v 0 1416636571
+v 1 11.2016
+v 2 2016
+v 3 9.11.2016
+v 4 tweet_30387:1416636571
+v 5 Trump:
+v 6 Hem
+v 7 Amerika,
+v 8 hem
+v 9 dünya
+v 10 için
+v 11 korkunç
+v 12 bir
+v 13 Başkan!
+v 14 564989988
+v 15 tweet_30388:564989988
+v 16 605871408
+v 17 tweet_30389:605871408
+v 18 3233892120
+v 19 tweet_30390:3233892120
+v 20 (K.A.P
+v 21 BİLDİRİSİ)
+v 22 -
+v 23 8
+v 24 Kasım
+v 25 2016
+v 26 SKBNK
+v 27 ***
+v 28 ŞEKERBANK
+v 29 T.A.Ş.(
+v 30 Banka
+v 31 Fina...
+v 32 ##SKBNK
+v 33 #hisse
+v 34 #borsa
+v 35 #bist
+v 36 #kap
+v 37 tweet_30391:3233892120
+v 38 ANADOLU
+v 39 ISUZU
+v 40 haber,
+v 41 yorum
+v 42 ve
+v 43 analizleri
+v 44 !
+v 45 ##ASUZU
+v 46 #finans
+v 47 #ekonomi
+v 48 #dolar
+v 49 #euro
+v 50 tweet_30392:3233892120
+v 51 BEŞİKTAŞ
+v 52 FUTBOL
+v 53 YAT.
+v 54 ##BJKAS
+v 55 tweet_30393:3233892120
+v 56 ADANA
+v 57 ÇİMENTO
+v 58 (C)
+v 59 ##ADNAC
+v 60 tweet_30394:3233892120
+v 61 BORUSAN
+v 62 MANNESMANN
+v 63 ##BRSAN
+v 64 tweet_30395:3233892120
+v 65 ERBOSAN
+v 66 ##ERBOS
+v 67 923909491
+v 68 tweet_30396:923909491
+v 69 Kritik
+v 70 savcı
+v 71 sahte
+v 72 kimlikle
+v 73 yakalandı
+v 74 tweet_30397:1416636571
+v 75 tweet_30398:564989988
+v 76 tweet_30399:1416636571
+v 77 Eski
+v 78 MİT
+v 79 Müsteşarı'ndan
+v 80 Cemaat
+v 81 PKK
+v 82 özeleştirisi
+v 83 tweet_30400:923909491
+v 84 tweet_30401:564989988
+v 85 tweet_30402:1416636571
+v 86 Lekesiz:
+v 87 Akıncılar
+v 88 300
+v 89 özel
+v 90 harekat
+v 91 polisiyle
+v 92 kuşatıldı
+v 93 tweet_30403:564989988
+v 94 tweet_30404:923909491
+v 95 tweet_30405:605871408
+v 96 AMERİKA
+v 97 DOSYASI
+v 98 :
+v 99 Trump
+v 100 İncirlik’i
+v 101 kapatır
+v 102 mı
+v 103 ?
+v 104 tweet_30406:923909491
+v 105 tweet_30407:1416636571
+v 106 tweet_30408:564989988
+v 107 tweet_30409:923909491
+v 108 tweet_30410:1416636571
+v 109 tweet_30411:605871408
+v 110 tweet_30412:564989988
+v 111 tweet_30413:923909491
+v 112 tweet_30414:605871408
+v 113 tweet_30415:564989988
+v 114 tweet_30416:1416636571
+e 0 4 1
+e 0 74 1
+e 0 76 1
+e 0 85 1
+e 0 105 1
+e 0 108 1
+e 0 114 1
+e 1 2 1
+e 1 3 1
+e 3 4 1
+e 3 15 1
+e 3 17 1
+e 3 19 1
+e 3 37 1
+e 3 50 1
+e 3 55 1
+e 3 60 1
+e 3 64 1
+e 3 68 1
+e 3 74 1
+e 3 75 1
+e 3 76 1
+e 3 83 1
+e 3 84 1
+e 3 85 1
+e 3 93 1
+e 3 94 1
+e 3 95 1
+e 3 104 1
+e 3 105 1
+e 3 106 1
+e 3 107 1
+e 3 108 1
+e 3 109 1
+e 3 110 1
+e 3 111 1
+e 3 112 1
+e 3 113 1
+e 3 114 1
+e 4 5 1
+e 5 6 1
+e 5 15 1
+e 5 17 1
+e 6 7 1
+e 7 8 1
+e 8 9 1
+e 9 10 1
+e 10 11 1
+e 11 12 1
+e 12 13 1
+e 14 15 1
+e 14 75 1
+e 14 84 1
+e 14 93 1
+e 14 106 1
+e 14 110 1
+e 14 113 1
+e 16 17 1
+e 16 95 1
+e 16 109 1
+e 16 112 1
+e 18 19 1
+e 18 37 1
+e 18 50 1
+e 18 55 1
+e 18 60 1
+e 18 64 1
+e 19 20 1
+e 20 21 1
+e 21 22 1
+e 22 23 1
+e 22 25 1
+e 22 26 1
+e 22 27 1
+e 23 24 1
+e 24 25 1
+e 27 28 1
+e 28 29 1
+e 29 30 1
+e 30 31 1
+e 31 32 1
+e 32 33 1
+e 33 34 1
+e 33 45 1
+e 33 54 1
+e 33 59 1
+e 33 63 1
+e 33 66 1
+e 34 35 1
+e 35 36 1
+e 35 46 1
+e 37 38 1
+e 38 39 1
+e 39 40 1
+e 40 41 1
+e 40 53 1
+e 40 58 1
+e 40 62 1
+e 40 65 1
+e 41 42 1
+e 42 43 1
+e 42 80 1
+e 42 81 1
+e 43 44 1
+e 44 45 1
+e 44 54 1
+e 44 59 1
+e 44 63 1
+e 44 66 1
+e 46 47 1
+e 47 48 1
+e 48 49 1
+e 50 51 1
+e 51 52 1
+e 52 53 1
+e 55 56 1
+e 56 57 1
+e 57 58 1
+e 60 61 1
+e 61 62 1
+e 64 65 1
+e 67 68 1
+e 67 83 1
+e 67 94 1
+e 67 104 1
+e 67 107 1
+e 67 111 1
+e 68 69 1
+e 69 70 1
+e 69 74 1
+e 69 75 1
+e 70 71 1
+e 71 72 1
+e 72 73 1
+e 76 77 1
+e 77 78 1
+e 77 83 1
+e 77 84 1
+e 78 79 1
+e 79 80 1
+e 81 82 1
+e 85 86 1
+e 86 87 1
+e 86 93 1
+e 86 94 1
+e 87 88 1
+e 88 89 1
+e 89 90 1
+e 90 91 1
+e 91 92 1
+e 95 96 1
+e 96 97 1
+e 96 104 1
+e 96 105 1
+e 96 106 1
+e 96 107 1
+e 96 108 1
+e 96 109 1
+e 96 110 1
+e 96 111 1
+e 96 112 1
+e 96 113 1
+e 96 114 1
+e 97 98 1
+e 98 99 1
+e 99 100 1
+e 100 101 1
+e 101 102 1
+e 102 103 1
+t # 4
+v 0 923909491
+v 1 11.2016
+v 2 2016
+v 3 10.11.2016
+v 4 tweet_30417:923909491
+v 5 IŞİD
+v 6 ÖRGÜTÜ
+v 7 DOSYASI
+v 8 ///
+v 9 VİDEO
+v 10 :
+v 11 F.
+v 12 William
+v 13 Engdahl
+v 14 –
+v 15 DAEŞ’i
+v 16 Eski
+v 17 CIA
+v 18 Direktörü…
+v 19 1416636571
+v 20 tweet_30418:1416636571
+v 21 564989988
+v 22 tweet_30419:564989988
+v 23 tweet_30420:1416636571
+v 24 Direktörü
+v 25 Petraeus
+v 26 Kurdu…
+v 27 tweet_30421:564989988
+v 28 tweet_30422:923909491
+v 29 605871408
+v 30 tweet_30423:605871408
+v 31 tweet_30424:1416636571
+v 32 tweet_30425:605871408
+v 33 tweet_30426:923909491
+v 34 tweet_30427:564989988
+v 35 tweet_30428:605871408
+v 36 AVRUPA
+v 37 BİRLİĞİ
+v 38 Türkiye-Avrupa
+v 39 İlişkileri
+v 40 Nereye
+v 41 ?
+v 42 tweet_30429:923909491
+v 43 tweet_30430:1416636571
+v 44 tweet_30431:564989988
+v 45 tweet_30432:605871408
+v 46 TERÖR
+v 47 Hukuka
+v 48 Karşı
+v 49 Terör
+v 50 tweet_30433:923909491
+v 51 tweet_30434:1416636571
+v 52 tweet_30435:564989988
+v 53 tweet_30436:564989988
+v 54 tweet_30437:605871408
+v 55 tweet_30438:605871408
+v 56 tweet_30439:564989988
+v 57 tweet_30440:1416636571
+v 58 tweet_30441:1416636571
+v 59 tweet_30442:923909491
+v 60 tweet_30443:923909491
+v 61 tweet_30444:564989988
+v 62 Cezaevinde
+v 63 intihar
+v 64 eden
+v 65 kimliği
+v 66 belirsiz
+v 67 ‘FETÖ’
+v 68 sanığı,
+v 69 ‘fuatavni’nin
+v 70 kaynağıymış
+v 71 tweet_30445:923909491
+v 72 tweet_30446:605871408
+v 73 tweet_30447:1416636571
+v 74 tweet_30448:923909491
+v 75 Cemaat'in
+v 76 bir
+v 77 kritik
+v 78 ismi
+v 79 daha
+v 80 cezaevinde
+v 81 ölü
+v 82 bulundu
+v 83 tweet_30449:1416636571
+v 84 tweet_30450:564989988
+v 85 tweet_30451:923909491
+v 86 Trump
+v 87 cephesinden
+v 88 ilk
+v 89 Fethullah
+v 90 Gülen
+v 91 çıkışı
+v 92 tweet_30452:1416636571
+v 93 tweet_30453:605871408
+v 94 tweet_30454:564989988
+v 95 3233892120
+v 96 tweet_30455:3233892120
+v 97 COCA
+v 98 COLA
+v 99 İÇECEK
+v 100 haber,
+v 101 yorum
+v 102 ve
+v 103 analizleri
+v 104 !
+v 105 ##CCOLA
+v 106 #hisse
+v 107 #borsa
+v 108 #bist
+v 109 #finans
+v 110 #ekonomi
+v 111 #dolar
+v 112 #euro
+v 113 tweet_30456:3233892120
+v 114 İZMİR
+v 115 DEMİR
+v 116 ÇELİK
+v 117 ##IZMDC
+v 118 565848357
+v 119 tweet_30457:565848357
+v 120 RT
+v 121 @siyahalpacino:
+v 122 Her
+v 123 sakal
+v 124 bırakana
+v 125 işid'çi,
+v 126 her
+v 127 namaz
+v 128 kılana
+v 129 yobaz,
+v 130 Atatürk'ü
+v 131 sevene
+v 132 dinsiz
+v 133 gözüyle
+v 134 bakmayı
+v 135 bırakmadıkça
+v 136 biraz
+v 137 zor
+v 138 d…
+v 139 tweet_30458:605871408
+v 140 Trump’ın
+v 141 başdanışmanından
+v 142 ‘Gülen’
+v 143 açıklaması
+v 144 tweet_30459:1416636571
+v 145 tweet_30460:564989988
+v 146 tweet_30461:923909491
+v 147 tweet_30462:3233892120
+v 148 GSD
+v 149 DENİZCİLİK
+v 150 ##GSDDE
+v 151 tweet_30463:3233892120
+v 152 İTTİFAK
+v 153 HOLDİNG
+v 154 ##ITTFH
+v 155 tweet_30464:564989988
+v 156 Türkiye
+v 157 Donald
+v 158 Trump'tan
+v 159 Ne
+v 160 Bekliyor?
+v 161 tweet_30465:3233892120
+v 162 (K.A.P
+v 163 BİLDİRİSİ)
+v 164 -
+v 165 9
+v 166 Kasım
+v 167 2016
+v 168 AKSEN
+v 169 ***
+v 170 AKSA
+v 171 ENERJİ
+v 172 ÜRETİM
+v 173 A.Ş.(
+v 174 Sor...
+v 175 ##AKSEN
+v 176 #kap
+v 177 tweet_30466:605871408
+v 178 Avrupa
+v 179 Birliği'nden
+v 180 Trump'a
+v 181 acil
+v 182 zirve
+v 183 çağrısı!
+v 184 tweet_30467:923909491
+v 185 tweet_30468:564989988
+v 186 tweet_30469:3233892120
+v 187 KARSN
+v 188 KARSAN
+v 189 OTOMOTİV
+v 190 SANAYİİ
+v 191 VE
+v 192 T...
+v 193 ##KARSN
+v 194 tweet_30470:1416636571
+v 195 tweet_30471:3233892120
+v 196 KENT
+v 197 GIDA
+v 198 ##KENT
+v 199 tweet_30472:605871408
+v 200 Örgütü
+v 201 Sözcüsü
+v 202 Özgür
+v 203 Gündeme
+v 204 Şok!
+v 205 tweet_30473:923909491
+v 206 tweet_30474:1416636571
+v 207 tweet_30475:564989988
+v 208 tweet_30476:605871408
+v 209 “FETÖ
+v 210 ile
+v 211 mücadele
+v 212 ediliyor”
+v 213 diyenlere
+v 214 bu
+v 215 haberi
+v 216 gösterin
+v 217 tweet_30477:564989988
+v 218 tweet_30478:1416636571
+v 219 tweet_30479:923909491
+v 220 tweet_30480:3233892120
+v 221 MERKO
+v 222 ##MERKO
+v 223 tweet_30481:605871408
+v 224 FETÖ
+v 225 mağduru
+v 226 pilotlar
+v 227 görevlerine
+v 228 döndü
+v 229 tweet_30482:564989988
+v 230 tweet_30483:1416636571
+v 231 tweet_30484:923909491
+v 232 tweet_30485:3233892120
+v 233 YKBNK
+v 234 YAPI
+v 235 KREDİ
+v 236 BANKASI
+v 237 ...
+v 238 ##YKBNK
+v 239 tweet_30486:605871408
+v 240 Bozdağ'dan
+v 241 AB'ye
+v 242 tepkisi!
+v 243 tweet_30487:923909491
+v 244 tweet_30488:1416636571
+v 245 tweet_30489:564989988
+v 246 tweet_30490:3233892120
+v 247 tweet_30491:605871408
+v 248 örgütü
+v 249 bülteni
+v 250 Gündem’e
+v 251 şok!
+v 252 tweet_30492:923909491
+v 253 tweet_30493:1416636571
+v 254 tweet_30494:564989988
+v 255 tweet_30495:565848357
+v 256 @SelimAtalayNY:
+v 257 Jamie
+v 258 Dimon
+v 259 2008
+v 260 Krizinde
+v 261 JP
+v 262 Morgan
+v 263 CEOsu
+v 264 idi
+v 265 -gel
+v 266 Hazine
+v 267 Bakanım
+v 268 ol-
+v 269 demiş
+v 270 O
+v 271 istemezse
+v 272 Goldman
+v 273 Sachstan
+v 274 biri
+v 275 var…
+v 276 tweet_30496:923909491
+v 277 ‘FETÖ’den
+v 278 aranan
+v 279 şahıs,
+v 280 Yunan
+v 281 adasına
+v 282 kaçarken
+v 283 lastik
+v 284 bottan
+v 285 düşünce
+v 286 yakalandı
+v 287 tweet_30497:564989988
+v 288 tweet_30498:1416636571
+v 289 tweet_30499:1416636571
+v 290 tweet_30500:923909491
+v 291 tweet_30501:564989988
+v 292 tweet_30502:1416636571
+v 293 KAMPANYA
+v 294 TACAM’dan
+v 295 THY
+v 296 Protesto
+v 297 Bildirisi
+v 298 tweet_30503:1416636571
+v 299 tweet_30504:1416636571
+v 300 tweet_30505:1416636571
+v 301 Trump'ın
+v 302 zaferinin
+v 303 şifreleri
+v 304 tweet_30506:1416636571
+v 305 Trump-Erdoğan
+v 306 görüşmesi:
+v 307 ‘Kızım
+v 308 Ivanka
+v 309 sizin
+v 310 büyük
+v 311 hayranınız
+v 312 taraftarınız’
+v 313 tweet_30507:1416636571
+v 314 DİN
+v 315 &
+v 316 DİYANET
+v 317 SEDAT
+v 318 BULUT
+v 319 DİNLER
+v 320 ARASI
+v 321 DİYALOG
+v 322 ROGER
+v 323 GARAUDY
+v 324 tweet_30508:1416636571
+v 325 tweet_30509:1416636571
+v 326 tweet_30510:1416636571
+v 327 tweet_30511:1416636571
+v 328 Tan
+v 329 Oral
+v 330 çiziyor
+v 331 tweet_30512:1416636571
+v 332 Nullum
+v 333 erimen
+v 334 sine
+v 335 lege
+v 336 preivia
+v 337 tweet_30513:1416636571
+v 338 Seviye
+v 339 düştükçe
+v 340 kirlenme
+v 341 çoğalıyor
+v 342 tweet_30514:1416636571
+v 343 Yeni
+v 344 Çağan
+v 345 Irmak:
+v 346 Bir
+v 347 düğün
+v 348 gecesinin
+v 349 sürprizleri
+v 350 tweet_30515:1416636571
+v 351 Sen
+v 352 benim
+v 353 Başkan’ım
+v 354 değilsin,
+v 355 yıkıl
+v 356 git!
+v 357 tweet_30516:1416636571
+v 358 Trump,
+v 359 Kudüs
+v 360 vaadini
+v 361 yerine
+v 362 getirecek
+v 363 mi?
+v 364 tweet_30517:1416636571
+v 365 Sayın
+v 366 Valim
+v 367 sayenizde
+v 368 mutluyuz,
+v 369 sağ
+v 370 olun!
+v 371 tweet_30518:923909491
+v 372 IRAK
+v 373 Murat
+v 374 Bardakçı
+v 375 MUSUL’U
+v 376 ALIP
+v 377 NE
+v 378 YAPALIM
+v 379 tweet_30519:1416636571
+v 380 tweet_30520:564989988
+v 381 tweet_30521:923909491
+v 382 tweet_30522:564989988
+v 383 tweet_30523:1416636571
+v 384 tweet_30524:1416636571
+v 385 Nasıl
+v 386 Kazandı?
+v 387 ABD'li
+v 388 Seçmen
+v 389 Kime
+v 390 Neden
+v 391 Oy
+v 392 Verdi?
+v 393 tweet_30525:1416636571
+v 394 Windows
+v 395 10
+v 396 artık
+v 397 bunu
+v 398 da
+v 399 yapacak!
+v 400 tweet_30526:1416636571
+v 401 Vespa
+v 402 Elettrica
+v 403 gerçek
+v 404 olmak
+v 405 üzere!
+v 406 tweet_30527:1416636571
+v 407 Twitter'da
+v 408 deprem!
+v 409 tweet_30528:1416636571
+v 410 Samsung'dan
+v 411 yeni
+v 412 ilham
+v 413 verici
+v 414 projeler
+v 415 tweet_30529:1416636571
+v 416 tweet_30530:1416636571
+v 417 tweet_30531:1416636571
+v 418 tweet_30532:1416636571
+v 419 tweet_30533:1416636571
+v 420 PARAPSİKOLOJİ
+v 421 GİZEM
+v 422 Büyü
+v 423 Sonucu
+v 424 Ölen
+v 425 Osmanlı
+v 426 Padişahı
+v 427 Saray
+v 428 B…
+v 429 tweet_30534:1416636571
+v 430 Arslan
+v 431 Bulut:
+v 432 “Yeni
+v 433 Türkiye”nin
+v 434 yenisi
+v 435 nasıl
+v 436 olur?
+v 437 tweet_30535:1416636571
+v 438 tweet_30536:1416636571
+v 439 tweet_30537:1416636571
+v 440 tweet_30538:1416636571
+v 441 B
+v 442 üyücüleri
+v 443 !…
+v 444 tweet_30539:1416636571
+v 445 DHKP-C’nin
+v 446 silahlı
+v 447 kanat
+v 448 sorumlusu
+v 449 tweet_30540:1416636571
+v 450 TSK’dan
+v 451 açıklama!
+v 452 tweet_30541:1416636571
+v 453 ‘FETÖ
+v 454 imamı’
+v 455 yakalandı!
+v 456 tweet_30542:1416636571
+v 457 PYD/PKK
+v 458 elebaşısı
+v 459 Alman
+v 460 Meclisinde!
+v 461 tweet_30543:1416636571
+v 462 ATATÜRK
+v 463 TÜRK
+v 464 MİLLİYETÇİLERİ
+v 465 09:05
+v 466 tweet_30544:1416636571
+v 467 tweet_30545:1416636571
+v 468 Türkiye’nin
+v 469 Huzuruna
+v 470 Kim
+v 471 Kastediyor
+v 472 tweet_30546:1416636571
+v 473 tweet_30547:1416636571
+v 474 FETÖ,
+v 475 Cumhuriyet
+v 476 gazetesine
+v 477 ne
+v 478 zaman
+v 479 sızdı?
+v 480 tweet_30548:1416636571
+v 481 Varto
+v 482 Belediye
+v 483 Başkanı
+v 484 terörden
+v 485 tutuklandı
+v 486 tweet_30549:1416636571
+v 487 tweet_30550:564989988
+v 488 tweet_30551:923909491
+v 489 tweet_30552:1416636571
+v 490 tweet_30553:1416636571
+v 491 tweet_30554:1416636571
+v 492 tweet_30555:1416636571
+v 493 tweet_30556:1416636571
+v 494 İşte
+v 495 FETÖ-DEAŞ
+v 496 işbirliğinin
+v 497 kanıtı!
+v 498 tweet_30557:1416636571
+v 499 Hakkari
+v 500 belediye
+v 501 başkan
+v 502 vekili
+v 503 Yıldız
+v 504 tutuklandı!
+v 505 tweet_30558:1416636571
+v 506 Siirt
+v 507 kırsalında
+v 508 hava
+v 509 harekatı!
+v 510 tweet_30559:1416636571
+v 511 Tarih
+v 512 profesörü
+v 513 Atatürk
+v 514 anmasında
+v 515 diyemedi
+v 516 tweet_30560:1416636571
+v 517 GÜNDEM
+v 518 ANALİZİ
+v 519 CIinton
+v 520 PKK-PYD
+v 521 FETÖ’yü
+v 522 destekleyecek
+v 523 tweet_30561:1416636571
+v 524 SAADET
+v 525 PARTİSİ
+v 526 Gülen’in
+v 527 teklifine
+v 528 Erbakan
+v 529 Hoca’dan
+v 530 sert
+v 531 cevap
+v 532 tweet_30562:1416636571
+v 533 tweet_30563:1416636571
+e 0 4 1
+e 0 28 1
+e 0 33 1
+e 0 42 1
+e 0 50 1
+e 0 59 1
+e 0 60 1
+e 0 71 1
+e 0 74 1
+e 0 85 1
+e 0 146 1
+e 0 184 1
+e 0 205 1
+e 0 219 1
+e 0 231 1
+e 0 243 1
+e 0 252 1
+e 0 276 1
+e 0 290 1
+e 0 371 1
+e 0 381 1
+e 0 488 1
+e 1 2 1
+e 1 3 1
+e 3 4 1
+e 3 20 1
+e 3 22 1
+e 3 23 1
+e 3 27 1
+e 3 28 1
+e 3 30 1
+e 3 31 1
+e 3 32 1
+e 3 33 1
+e 3 34 1
+e 3 35 1
+e 3 42 1
+e 3 43 1
+e 3 44 1
+e 3 45 1
+e 3 50 1
+e 3 51 1
+e 3 52 1
+e 3 53 1
+e 3 54 1
+e 3 55 1
+e 3 56 1
+e 3 57 1
+e 3 58 1
+e 3 59 1
+e 3 60 1
+e 3 61 1
+e 3 71 1
+e 3 72 1
+e 3 73 1
+e 3 74 1
+e 3 83 1
+e 3 84 1
+e 3 85 1
+e 3 92 1
+e 3 93 1
+e 3 94 1
+e 3 96 1
+e 3 113 1
+e 3 119 1
+e 3 139 1
+e 3 144 1
+e 3 145 1
+e 3 146 1
+e 3 147 1
+e 3 151 1
+e 3 155 1
+e 3 161 1
+e 3 177 1
+e 3 184 1
+e 3 185 1
+e 3 186 1
+e 3 194 1
+e 3 195 1
+e 3 199 1
+e 3 205 1
+e 3 206 1
+e 3 207 1
+e 3 208 1
+e 3 217 1
+e 3 218 1
+e 3 219 1
+e 3 220 1
+e 3 223 1
+e 3 229 1
+e 3 230 1
+e 3 231 1
+e 3 232 1
+e 3 239 1
+e 3 243 1
+e 3 244 1
+e 3 245 1
+e 3 246 1
+e 3 247 1
+e 3 252 1
+e 3 253 1
+e 3 254 1
+e 3 255 1
+e 3 276 1
+e 3 287 1
+e 3 288 1
+e 3 289 1
+e 3 290 1
+e 3 291 1
+e 3 292 1
+e 3 298 1
+e 3 299 1
+e 3 300 1
+e 3 304 1
+e 3 313 1
+e 3 324 1
+e 3 325 1
+e 3 326 1
+e 3 327 1
+e 3 331 1
+e 3 337 1
+e 3 342 1
+e 3 350 1
+e 3 357 1
+e 3 364 1
+e 3 371 1
+e 3 379 1
+e 3 380 1
+e 3 381 1
+e 3 382 1
+e 3 383 1
+e 3 384 1
+e 3 393 1
+e 3 400 1
+e 3 406 1
+e 3 409 1
+e 3 415 1
+e 3 416 1
+e 3 417 1
+e 3 418 1
+e 3 419 1
+e 3 429 1
+e 3 437 1
+e 3 438 1
+e 3 439 1
+e 3 440 1
+e 3 444 1
+e 3 449 1
+e 3 452 1
+e 3 456 1
+e 3 461 1
+e 3 466 1
+e 3 467 1
+e 3 472 1
+e 3 473 1
+e 3 480 1
+e 3 486 1
+e 3 487 1
+e 3 488 1
+e 3 489 1
+e 3 490 1
+e 3 491 1
+e 3 492 1
+e 3 493 1
+e 3 498 1
+e 3 505 1
+e 3 510 1
+e 3 516 1
+e 3 523 1
+e 3 532 1
+e 3 533 1
+e 4 5 1
+e 5 6 1
+e 5 20 1
+e 5 22 1
+e 5 23 1
+e 5 27 1
+e 5 28 1
+e 5 30 1
+e 5 31 1
+e 5 32 1
+e 5 33 1
+e 5 34 1
+e 6 7 1
+e 7 8 1
+e 7 37 1
+e 7 10 1
+e 7 46 1
+e 7 316 1
+e 7 372 1
+e 7 421 1
+e 7 464 1
+e 7 525 1
+e 8 9 1
+e 9 10 1
+e 10 11 1
+e 10 38 1
+e 10 47 1
+e 10 293 1
+e 10 294 1
+e 10 317 1
+e 10 373 1
+e 10 374 1
+e 10 375 1
+e 10 422 1
+e 10 395 1
+e 10 468 1
+e 10 518 1
+e 10 519 1
+e 10 526 1
+e 11 12 1
+e 12 13 1
+e 13 14 1
+e 14 15 1
+e 14 318 1
+e 14 319 1
+e 14 166 1
+e 14 465 1
+e 15 16 1
+e 16 17 1
+e 16 498 1
+e 16 499 1
+e 17 18 1
+e 17 24 1
+e 19 20 1
+e 19 23 1
+e 19 31 1
+e 19 43 1
+e 19 51 1
+e 19 57 1
+e 19 58 1
+e 19 73 1
+e 19 83 1
+e 19 92 1
+e 19 144 1
+e 19 194 1
+e 19 206 1
+e 19 218 1
+e 19 230 1
+e 19 244 1
+e 19 253 1
+e 19 288 1
+e 19 289 1
+e 19 292 1
+e 19 298 1
+e 19 299 1
+e 19 300 1
+e 19 304 1
+e 19 313 1
+e 19 324 1
+e 19 325 1
+e 19 326 1
+e 19 327 1
+e 19 331 1
+e 19 337 1
+e 19 342 1
+e 19 350 1
+e 19 357 1
+e 19 364 1
+e 19 379 1
+e 19 383 1
+e 19 384 1
+e 19 393 1
+e 19 400 1
+e 19 406 1
+e 19 409 1
+e 19 415 1
+e 19 416 1
+e 19 417 1
+e 19 418 1
+e 19 419 1
+e 19 429 1
+e 19 437 1
+e 19 438 1
+e 19 439 1
+e 19 440 1
+e 19 444 1
+e 19 449 1
+e 19 452 1
+e 19 456 1
+e 19 461 1
+e 19 466 1
+e 19 467 1
+e 19 472 1
+e 19 473 1
+e 19 480 1
+e 19 486 1
+e 19 489 1
+e 19 490 1
+e 19 491 1
+e 19 492 1
+e 19 493 1
+e 19 498 1
+e 19 505 1
+e 19 510 1
+e 19 516 1
+e 19 523 1
+e 19 532 1
+e 19 533 1
+e 21 22 1
+e 21 27 1
+e 21 34 1
+e 21 44 1
+e 21 52 1
+e 21 53 1
+e 21 56 1
+e 21 61 1
+e 21 84 1
+e 21 94 1
+e 21 145 1
+e 21 155 1
+e 21 185 1
+e 21 207 1
+e 21 217 1
+e 21 229 1
+e 21 245 1
+e 21 254 1
+e 21 287 1
+e 21 291 1
+e 21 380 1
+e 21 382 1
+e 21 487 1
+e 24 25 1
+e 25 26 1
+e 29 30 1
+e 29 32 1
+e 29 35 1
+e 29 45 1
+e 29 54 1
+e 29 55 1
+e 29 72 1
+e 29 93 1
+e 29 139 1
+e 29 177 1
+e 29 199 1
+e 29 208 1
+e 29 223 1
+e 29 239 1
+e 29 247 1
+e 35 36 1
+e 36 37 1
+e 36 42 1
+e 36 43 1
+e 36 44 1
+e 36 53 1
+e 36 54 1
+e 36 57 1
+e 36 59 1
+e 38 39 1
+e 39 40 1
+e 40 41 1
+e 41 378 1
+e 41 471 1
+e 45 46 1
+e 46 50 1
+e 46 51 1
+e 46 52 1
+e 46 55 1
+e 46 56 1
+e 46 58 1
+e 46 60 1
+e 46 467 1
+e 46 472 1
+e 46 492 1
+e 47 48 1
+e 48 49 1
+e 49 199 1
+e 49 200 1
+e 49 205 1
+e 49 206 1
+e 49 207 1
+e 49 247 1
+e 49 248 1
+e 49 252 1
+e 49 253 1
+e 49 254 1
+e 61 62 1
+e 62 63 1
+e 62 71 1
+e 62 72 1
+e 62 73 1
+e 63 64 1
+e 64 65 1
+e 65 66 1
+e 66 67 1
+e 67 68 1
+e 68 69 1
+e 69 70 1
+e 74 75 1
+e 75 76 1
+e 75 83 1
+e 75 84 1
+e 76 77 1
+e 77 78 1
+e 78 79 1
+e 79 80 1
+e 80 81 1
+e 81 82 1
+e 85 86 1
+e 86 87 1
+e 86 92 1
+e 86 93 1
+e 86 94 1
+e 86 264 1
+e 86 265 1
+e 86 384 1
+e 86 385 1
+e 87 88 1
+e 88 89 1
+e 89 90 1
+e 90 91 1
+e 95 96 1
+e 95 113 1
+e 95 147 1
+e 95 151 1
+e 95 161 1
+e 95 186 1
+e 95 195 1
+e 95 220 1
+e 95 232 1
+e 95 246 1
+e 96 97 1
+e 97 98 1
+e 98 99 1
+e 99 100 1
+e 100 101 1
+e 100 116 1
+e 100 149 1
+e 100 153 1
+e 100 197 1
+e 101 102 1
+e 102 103 1
+e 102 311 1
+e 102 312 1
+e 102 321 1
+e 102 322 1
+e 102 426 1
+e 102 427 1
+e 102 520 1
+e 102 521 1
+e 103 104 1
+e 104 105 1
+e 104 117 1
+e 104 150 1
+e 104 154 1
+e 104 198 1
+e 104 222 1
+e 105 106 1
+e 106 107 1
+e 106 117 1
+e 106 150 1
+e 106 154 1
+e 106 175 1
+e 106 193 1
+e 106 198 1
+e 106 222 1
+e 106 238 1
+e 107 108 1
+e 108 109 1
+e 108 176 1
+e 109 110 1
+e 110 111 1
+e 111 112 1
+e 113 114 1
+e 114 115 1
+e 115 116 1
+e 118 119 1
+e 118 255 1
+e 119 120 1
+e 120 121 1
+e 120 255 1
+e 120 256 1
+e 121 122 1
+e 122 123 1
+e 123 124 1
+e 124 125 1
+e 125 126 1
+e 126 127 1
+e 126 129 1
+e 126 130 1
+e 127 128 1
+e 128 129 1
+e 130 131 1
+e 131 132 1
+e 132 133 1
+e 133 134 1
+e 134 135 1
+e 135 136 1
+e 136 137 1
+e 137 138 1
+e 139 140 1
+e 140 141 1
+e 140 144 1
+e 140 145 1
+e 140 146 1
+e 141 142 1
+e 142 143 1
+e 147 148 1
+e 148 149 1
+e 151 152 1
+e 152 153 1
+e 155 156 1
+e 156 157 1
+e 157 158 1
+e 158 159 1
+e 159 160 1
+e 161 162 1
+e 162 163 1
+e 162 186 1
+e 162 232 1
+e 162 246 1
+e 163 164 1
+e 164 165 1
+e 164 167 1
+e 164 168 1
+e 164 169 1
+e 164 187 1
+e 164 233 1
+e 165 166 1
+e 166 167 1
+e 166 395 1
+e 169 170 1
+e 169 188 1
+e 169 234 1
+e 170 171 1
+e 171 172 1
+e 172 173 1
+e 173 174 1
+e 173 236 1
+e 173 237 1
+e 174 175 1
+e 177 178 1
+e 178 179 1
+e 178 184 1
+e 178 185 1
+e 178 194 1
+e 179 180 1
+e 180 181 1
+e 181 182 1
+e 182 183 1
+e 188 189 1
+e 189 190 1
+e 190 191 1
+e 191 192 1
+e 191 234 1
+e 191 235 1
+e 191 462 1
+e 191 463 1
+e 192 193 1
+e 195 196 1
+e 196 197 1
+e 197 221 1
+e 200 201 1
+e 201 202 1
+e 202 203 1
+e 202 249 1
+e 202 250 1
+e 203 204 1
+e 208 209 1
+e 209 210 1
+e 209 217 1
+e 209 218 1
+e 209 219 1
+e 210 211 1
+e 211 212 1
+e 212 213 1
+e 213 214 1
+e 214 215 1
+e 215 216 1
+e 220 221 1
+e 223 224 1
+e 224 225 1
+e 224 229 1
+e 224 230 1
+e 224 231 1
+e 224 241 1
+e 224 242 1
+e 225 226 1
+e 226 227 1
+e 227 228 1
+e 235 236 1
+e 237 238 1
+e 239 240 1
+e 240 241 1
+e 240 243 1
+e 240 244 1
+e 240 245 1
+e 248 249 1
+e 250 251 1
+e 256 257 1
+e 257 258 1
+e 258 259 1
+e 259 260 1
+e 260 261 1
+e 261 262 1
+e 262 263 1
+e 263 264 1
+e 265 266 1
+e 266 267 1
+e 267 268 1
+e 268 269 1
+e 269 270 1
+e 270 271 1
+e 271 272 1
+e 272 273 1
+e 273 274 1
+e 274 275 1
+e 276 277 1
+e 277 278 1
+e 277 287 1
+e 277 288 1
+e 277 289 1
+e 277 290 1
+e 277 291 1
+e 278 279 1
+e 279 280 1
+e 280 281 1
+e 281 282 1
+e 282 283 1
+e 283 284 1
+e 284 285 1
+e 284 454 1
+e 285 286 1
+e 285 455 1
+e 286 448 1
+e 292 293 1
+e 293 298 1
+e 293 299 1
+e 294 295 1
+e 295 296 1
+e 296 297 1
+e 300 301 1
+e 301 302 1
+e 301 325 1
+e 302 303 1
+e 304 305 1
+e 305 306 1
+e 305 326 1
+e 306 307 1
+e 307 308 1
+e 308 309 1
+e 309 310 1
+e 310 311 1
+e 313 314 1
+e 314 315 1
+e 314 324 1
+e 314 486 1
+e 315 316 1
+e 315 420 1
+e 315 421 1
+e 317 318 1
+e 319 320 1
+e 320 321 1
+e 322 323 1
+e 327 328 1
+e 328 329 1
+e 329 330 1
+e 331 332 1
+e 332 333 1
+e 333 334 1
+e 334 335 1
+e 335 336 1
+e 337 338 1
+e 338 339 1
+e 339 340 1
+e 340 341 1
+e 342 343 1
+e 343 344 1
+e 344 345 1
+e 345 346 1
+e 346 347 1
+e 347 348 1
+e 348 349 1
+e 350 351 1
+e 351 352 1
+e 352 353 1
+e 353 354 1
+e 354 355 1
+e 355 356 1
+e 357 358 1
+e 358 359 1
+e 359 360 1
+e 360 361 1
+e 361 362 1
+e 362 363 1
+e 364 365 1
+e 365 366 1
+e 366 367 1
+e 367 368 1
+e 368 369 1
+e 369 370 1
+e 371 372 1
+e 372 379 1
+e 372 380 1
+e 372 381 1
+e 372 382 1
+e 372 383 1
+e 372 487 1
+e 372 488 1
+e 372 489 1
+e 373 374 1
+e 375 376 1
+e 376 377 1
+e 377 378 1
+e 385 386 1
+e 386 387 1
+e 387 388 1
+e 388 389 1
+e 389 390 1
+e 390 391 1
+e 391 392 1
+e 393 394 1
+e 394 395 1
+e 394 415 1
+e 395 396 1
+e 396 397 1
+e 397 398 1
+e 398 399 1
+e 400 401 1
+e 401 402 1
+e 401 416 1
+e 401 437 1
+e 402 403 1
+e 403 404 1
+e 404 405 1
+e 406 407 1
+e 407 408 1
+e 407 417 1
+e 407 438 1
+e 409 410 1
+e 410 411 1
+e 410 418 1
+e 410 439 1
+e 411 412 1
+e 411 450 1
+e 411 451 1
+e 412 413 1
+e 413 414 1
+e 419 420 1
+e 420 440 1
+e 420 490 1
+e 422 423 1
+e 423 424 1
+e 424 425 1
+e 425 426 1
+e 427 428 1
+e 427 441 1
+e 429 430 1
+e 430 431 1
+e 431 432 1
+e 432 433 1
+e 433 434 1
+e 434 435 1
+e 435 436 1
+e 441 442 1
+e 442 443 1
+e 444 445 1
+e 445 446 1
+e 446 447 1
+e 447 448 1
+e 449 450 1
+e 452 453 1
+e 453 454 1
+e 456 457 1
+e 457 458 1
+e 458 459 1
+e 459 460 1
+e 461 462 1
+e 462 466 1
+e 462 491 1
+e 463 464 1
+e 468 469 1
+e 469 470 1
+e 470 471 1
+e 473 474 1
+e 474 475 1
+e 475 476 1
+e 476 477 1
+e 477 478 1
+e 478 479 1
+e 480 481 1
+e 481 482 1
+e 482 483 1
+e 483 484 1
+e 484 485 1
+e 493 494 1
+e 494 495 1
+e 495 496 1
+e 496 497 1
+e 499 500 1
+e 500 501 1
+e 501 502 1
+e 502 503 1
+e 503 504 1
+e 505 506 1
+e 506 507 1
+e 507 508 1
+e 508 509 1
+e 510 511 1
+e 511 512 1
+e 512 513 1
+e 513 514 1
+e 513 515 1
+e 516 517 1
+e 517 518 1
+e 517 532 1
+e 519 520 1
+e 521 522 1
+e 523 524 1
+e 524 525 1
+e 524 533 1
+e 526 527 1
+e 527 528 1
+e 528 529 1
+e 529 530 1
+e 530 531 1
+t # 5
+v 0 1416636571
+v 1 11.2016
+v 2 2016
+v 3 11.11.2016
+v 4 tweet_30564:1416636571
+v 5 SAADET
+v 6 PARTİSİ
+v 7 DOSYASI
+v 8 :
+v 9 Gülen’in
+v 10 teklifine
+v 11 Erbakan
+v 12 Hoca’dan
+v 13 sert
+v 14 cevap
+v 15 tweet_30565:1416636571
+v 16 GÜNDEM
+v 17 ANALİZİ
+v 18 CIinton
+v 19 PKK-PYD
+v 20 ve
+v 21 FETÖ’yü
+v 22 destekleyecek
+v 23 tweet_30566:1416636571
+v 24 923909491
+v 25 tweet_30567:923909491
+v 26 ÖZEL-BÜRO
+v 27 ///
+v 28 ORTADOĞU
+v 29 Irak-Suriye
+v 30 Sarkacı
+v 31 tweet_30568:1416636571
+v 32 564989988
+v 33 tweet_30569:564989988
+v 34 tweet_30570:1416636571
+v 35 RUSYA
+v 36 Eski
+v 37 Rus
+v 38 İstihbaratçı
+v 39 Uçağını
+v 40 Düşürenler
+v 41 Erdoğan
+v 42 Düş
+v 43 manıydı,…
+v 44 tweet_30571:564989988
+v 45 tweet_30572:1416636571
+v 46 tweet_30573:1416636571
+v 47 manıydı,
+v 48 ABD’li
+v 49 Askerler
+v 50 de
+v 51 Katıldı…
+v 52 tweet_30574:923909491
+v 53 tweet_30575:1416636571
+v 54 tweet_30576:1416636571
+v 55 tweet_30577:1416636571
+v 56 Bilal
+v 57 davası
+v 58 Avrupa'ya
+v 59 taşındı
+v 60 tweet_30578:1416636571
+v 61 HUNZA
+v 62 TÜRKLERİ
+v 63 120
+v 64 yıl
+v 65 yaşayan,
+v 66 kanser
+v 67 bilmeyen
+v 68 Hunza
+v 69 Türkleri.
+v 70 tweet_30579:1416636571
+v 71 tweet_30580:1416636571
+v 72 tweet_30581:1416636571
+v 73 100
+v 74 kişi
+v 75 hastanede
+v 76 "hastanelik"
+v 77 oldu
+v 78 tweet_30582:1416636571
+v 79 Modem
+v 80 WiFi
+v 81 Şifre
+v 82 Değiştirme
+v 83 Rehberi
+v 84 tweet_30583:1416636571
+v 85 tweet_30584:1416636571
+v 86 tweet_30585:1416636571
+v 87 tweet_30586:1416636571
+v 88 Akacak
+v 89 kan
+v 90 damarda
+v 91 durmaz
+v 92 tweet_30587:1416636571
+v 93 FETÖ
+v 94 ÖRGÜTÜ
+v 95 FETÖ’nün
+v 96 Mason
+v 97 İmamları
+v 98 tweet_30588:1416636571
+v 99 tweet_30589:1416636571
+v 100 MİT,
+v 101 18
+v 102 milyon
+v 103 mesajın
+v 104 17
+v 105 milyonunu
+v 106 çözdü
+v 107 !
+v 108 tweet_30590:1416636571
+v 109 AMERİKA
+v 110 Türk
+v 111 iş
+v 112 dünyasından
+v 113 “Trump”
+v 114 yorumu
+v 115 tweet_30591:1416636571
+v 116 tweet_30592:1416636571
+v 117 tweet_30593:1416636571
+v 118 tweet_30594:1416636571
+v 119 tweet_30595:1416636571
+v 120 tweet_30596:1416636571
+v 121 tweet_30597:1416636571
+v 122 tweet_30598:1416636571
+v 123 Kiliseden
+v 124 çocuk
+v 125 tacizi
+v 126 itirafı
+v 127 tweet_30599:1416636571
+v 128 tweet_30600:1416636571
+v 129 Spam>
+v 130 KAMPANYA
+v 131 THY’NN
+v 132 ATATRK
+v 133 VE
+v 134 KEMALZM
+v 135 DMANLII
+v 136 BIKTIRDI
+v 137 THY
+v 138 ZR
+v 139 DLESN
+v 140 !!!!
+v 141 tweet_30601:1416636571
+v 142 tweet_30602:1416636571
+v 143 tweet_30603:1416636571
+v 144 E.
+v 145 TUĞA.
+v 146 TÜRKER
+v 147 ERTÜRK
+v 148 OSKAR
+v 149 KUSCH
+v 150 tweet_30604:1416636571
+v 151 tweet_30605:1416636571
+v 152 Almanya'dan
+v 153 İncirlik
+v 154 kararı
+v 155 tweet_30606:1416636571
+v 156 Engelli
+v 157 kızına
+v 158 6
+v 159 boyunca
+v 160 tecavüz
+v 161 eden
+v 162 babaya,
+v 163 sessiz
+v 164 kalan
+v 165 anneye
+v 166 MÜEBBET…
+v 167 tweet_30607:1416636571
+v 168 MÜEBBET
+v 169 İSTİYORUZ
+v 170 !…
+v 171 tweet_30608:1416636571
+v 172 KOMPLO
+v 173 TEORİLERİ
+v 174 Rothschild
+v 175 Hanedanlığı,
+v 176 Filistin
+v 177 Yeni
+v 178 Dünya
+v 179 Düzeni
+v 180 (+
+v 181 ARGO
+v 182 İÇ
+v 183 ERİR)
+v 184 tweet_30609:1416636571
+v 185 tweet_30610:1416636571
+v 186 tweet_30611:1416636571
+v 187 tweet_30612:1416636571
+v 188 tweet_30613:1416636571
+v 189 Filozoflara
+v 190 Göre
+v 191 İnsan
+v 192 Nedir?
+v 193 tweet_30614:1416636571
+v 194 tweet_30615:1416636571
+v 195 TARİH
+v 196 Denisova
+v 197 Mağarasında
+v 198 Devekuşu
+v 199 Yumurtasından
+v 200 Yapılmış
+v 201 50.000
+v 202 Yıllık
+v 203 Boncuklar
+v 204 Bulundu
+v 205 tweet_30616:1416636571
+v 206 tweet_30617:1416636571
+v 207 tweet_30618:1416636571
+v 208 Black
+v 209 Mirror
+v 210 gerçek
+v 211 tweet_30619:1416636571
+v 212 ADNAN
+v 213 HOCA
+v 214 SEMİN
+v 215 BABUNA
+v 216 Adnan
+v 217 Oktar
+v 218 bana
+v 219 5
+v 220 çocuk,
+v 221 2
+v 222 torun
+v 223 borçlu
+v 224 tweet_30620:1416636571
+v 225 tweet_30621:1416636571
+v 226 tweet_30622:1416636571
+v 227 RESEARCH
+v 228 DOCUMENT
+v 229 Gorbachev’s
+v 230 Nuclear
+v 231 Initiative
+v 232 of
+v 233 January
+v 234 1986
+v 235 and
+v 236 the
+v 237 Road
+v 238 to
+v 239 Reykjavik
+v 240 tweet_30623:1416636571
+v 241 tweet_30624:1416636571
+v 242 PARAPSİKOLOJİ
+v 243 &
+v 244 GİZEM
+v 245 VİDEO
+v 246 Gevaudan
+v 247 Canavarı
+v 248 tweet_30625:1416636571
+v 249 tweet_30626:1416636571
+v 250 Kral
+v 251 Ben
+v 252 44.
+v 253 Bölüm
+v 254 –
+v 255 Dünyayı
+v 256 Yönetenler
+v 257 Sinema
+v 258 Endüstrisini…
+v 259 tweet_30627:1416636571
+v 260 Endüstrisini
+v 261 Na
+v 262 sıl
+v 263 Kullanıyor
+v 264 ?…
+v 265 tweet_30628:1416636571
+v 266 Karadul
+v 267 Mezarlığındaki
+v 268 Ölülerin
+v 269 Korku
+v 270 Dolu…
+v 271 tweet_30629:1416636571
+v 272 Dolu
+v 273 Hikayeleri
+v 274 tweet_30630:923909491
+v 275 IRAK
+v 276 Abbadi
+v 277 Sana
+v 278 Söylüyorum
+v 279 ABD
+v 280 Sen
+v 281 Anla
+v 282 tweet_30631:1416636571
+v 283 tweet_30632:564989988
+v 284 tweet_30633:1416636571
+v 285 tweet_30634:923909491
+v 286 tweet_30635:564989988
+v 287 tweet_30636:1416636571
+v 288 Dünyaca
+v 289 ünlü
+v 290 dergi
+v 291 binlerce
+v 292 sayıyı
+v 293 geri
+v 294 çekti
+v 295 tweet_30637:1416636571
+v 296 tweet_30638:1416636571
+v 297 tweet_30639:1416636571
+v 298 tweet_30640:1416636571
+v 299 tweet_30641:923909491
+v 300 tweet_30642:1416636571
+v 301 tweet_30643:564989988
+v 302 tweet_30644:1416636571
+v 303 Efsanevi
+v 304 Müzisyen
+v 305 Söz
+v 306 Yazarı
+v 307 Leonard
+v 308 Cohen
+v 309 Hayatını
+v 310 Kaybetti
+v 311 tweet_30645:1416636571
+v 312 Yılmaz
+v 313 Özdil’den
+v 314 İzmir’de
+v 315 yaşanmış
+v 316 bir
+v 317 ‘Atatürk’
+v 318 hadisesi…
+v 319 Mutlaka
+v 320 okumalısınız
+v 321 tweet_30646:1416636571
+v 322 tweet_30647:1416636571
+v 323 Bekir
+v 324 Coşkun;
+v 325 “Trump
+v 326 nasıl
+v 327 kazandı?”
+v 328 yı
+v 329 anlatmak
+v 330 istiyorum
+v 331 tweet_30648:1416636571
+v 332 tweet_30649:1416636571
+v 333 hayatını
+v 334 kaybetti
+v 335 tweet_30650:1416636571
+v 336 11
+v 337 Kasım
+v 338 2016
+v 339 tweet_30651:1416636571
+v 340 Trump'ın
+v 341 açıklamalarını
+v 342 dikkate
+v 343 almadan
+v 344 devam
+v 345 edeceğiz
+v 346 tweet_30652:1416636571
+v 347 Artık
+v 348 onların
+v 349 da
+v 350 mallarına
+v 351 el
+v 352 konulacak
+v 353 tweet_30653:1416636571
+v 354 müzisyen
+v 355 kaybetti:
+v 356 ‘Ölmeye
+v 357 hazırım’
+v 358 demişti
+v 359 tweet_30654:1416636571
+v 360 PYD
+v 361 elebaşı
+v 362 Salih
+v 363 Müslim
+v 364 Almanya
+v 365 Federal
+v 366 Meclisi'nde
+v 367 tweet_30655:1416636571
+v 368 HDP'ye
+v 369 yeni
+v 370 operasyon
+v 371 tweet_30656:564989988
+v 372 tweet_30657:1416636571
+v 373 Cumhurbaşkanı
+v 374 Erdoğan'dan
+v 375 AB'ye
+v 376 mülteci
+v 377 tepkisi
+v 378 tweet_30658:564989988
+v 379 tweet_30659:923909491
+v 380 tweet_30660:923909491
+v 381 3233892120
+v 382 tweet_30661:3233892120
+v 383 T.TUBORG
+v 384 haber,
+v 385 yorum
+v 386 analizleri
+v 387 ##TBORG
+v 388 #hisse
+v 389 #borsa
+v 390 #bist
+v 391 #finans
+v 392 #ekonomi
+v 393 #dolar
+v 394 #euro
+v 395 tweet_30662:1416636571
+v 396 Üç
+v 397 DNA
+v 398 testi
+v 399 yanıldı,
+v 400 annesi
+v 401 haklı
+v 402 çıktı:
+v 403 IŞİD
+v 404 kurbanı
+v 405 9
+v 406 yaşındaki
+v 407 Ramazan
+v 408 bulundu
+v 409 tweet_30663:1416636571
+v 410 Newsweek’e
+v 411 göre
+v 412 Türkiye
+v 413 ‘yaşam
+v 414 destek
+v 415 ünitesi’ne
+v 416 bağlı:
+v 417 Adil
+v 418 seçim
+v 419 imkansız
+v 420 tweet_30664:564989988
+v 421 tweet_30665:923909491
+v 422 tweet_30666:1416636571
+v 423 BM’nin
+v 424 ‘Serbest
+v 425 bırakın’
+v 426 dediği
+v 427 yargıç
+v 428 Akay:
+v 429 ‘FETÖ’cü
+v 430 değil,
+v 431 Masonum
+v 432 tweet_30667:1416636571
+v 433 tweet_30668:564989988
+v 434 tweet_30669:1416636571
+v 435 tweet_30670:923909491
+v 436 tweet_30671:1416636571
+v 437 tweet_30672:1416636571
+v 438 Dışişleri
+v 439 Bakanı'ndan
+v 440 açıklaması
+v 441 tweet_30673:1416636571
+v 442 Cumhuriyet
+v 443 başyazarının
+v 444 Atatürk
+v 445 eleştirisini
+v 446 okuyunca
+v 447 irkildim
+v 448 tweet_30674:1416636571
+v 449 O
+v 450 dışişleri
+v 451 bakanı
+v 452 yüklememi
+v 453 tavsiye
+v 454 etti
+v 455 tweet_30675:1416636571
+v 456 Bu
+v 457 Hafta
+v 458 Vizyona
+v 459 Giren
+v 460 Film
+v 461 tweet_30676:1416636571
+v 462 Yaşama
+v 463 Veda
+v 464 Etti
+v 465 tweet_30677:1416636571
+v 466 Gazetelerde
+v 467 Bugün
+v 468 |
+v 469 Cuma
+v 470 tweet_30678:1416636571
+v 471 Mardin’deki
+v 472 saldırıda
+v 473 yaralanan
+v 474 Derik
+v 475 kaymakamı
+v 476 tweet_30679:1416636571
+v 477 Mardin'deki
+v 478 Kaymakamı
+v 479 şehit
+v 480 tweet_30680:1416636571
+v 481 Galaxy
+v 482 Note
+v 483 7
+v 484 davaları
+v 485 bitmiyor!
+v 486 tweet_30681:1416636571
+v 487 tweet_30682:1416636571
+v 488 Zarrab'la
+v 489 bitmedi,
+v 490 4
+v 491 vatandaşı
+v 492 daha...
+v 493 tweet_30683:1416636571
+v 494 Coşkun:
+v 495 ‘Ekmek
+v 496 için
+v 497 Ekmeleddin’
+v 498 diyeceğinize
+v 499 ‘Ala-vere
+v 500 Ali
+v 501 Ağaoğlu’
+v 502 deseydiniz
+v 503 ya
+v 504 tweet_30684:1416636571
+v 505 Mine
+v 506 Söğüt:
+v 507 Kadere
+v 508 bakın
+v 509 ki
+v 510 Amerika
+v 511 büyük
+v 512 tweet_30685:1416636571
+v 513 Mehmet
+v 514 Tezkan:
+v 515 Amerikalıların
+v 516 endişe
+v 517 duyduğu
+v 518 hali
+v 519 biz,
+v 520 anayasayla
+v 521 düzene
+v 522 çevirmeye
+v 523 çalışıyoruz
+v 524 tweet_30686:1416636571
+v 525 Etyen
+v 526 Mahçupyan:
+v 527 Üst
+v 528 akıl
+v 529 düşmanların
+v 530 dünyası
+v 531 karşılığını
+v 532 ‘Malkoçoğlu
+v 533 sendromunda’
+v 534 buluyor
+v 535 tweet_30687:1416636571
+v 536 Yusuf
+v 537 Kaplan:
+v 538 Hillary
+v 539 trampetleri
+v 540 çalan
+v 541 celladına
+v 542 âşık
+v 543 tasmalı
+v 544 çekirgelere,
+v 545 Beyaz
+v 546 Türkler’e
+v 547 üzüldüm!
+v 548 tweet_30688:1416636571
+v 549 Nuray
+v 550 Mert:
+v 551 Sol,
+v 552 ilerici,
+v 553 liberal,
+v 554 demokratik
+v 555 siyaset
+v 556 savunucuları
+v 557 yollarını
+v 558 bu
+v 559 kadar
+v 560 şaşırmasaydılar
+v 561 tweet_30689:1416636571
+v 562 Esra
+v 563 Arsan:
+v 564 Amerikan
+v 565 basını
+v 566 seçmenin
+v 567 kurulu
+v 568 tepkisini
+v 569 doğru
+v 570 okuyamadı
+v 571 tweet_30690:1416636571
+v 572 Enver
+v 573 Aysever:
+v 574 RTE’nin
+v 575 gelişini
+v 576 sezemeyenler,
+v 577 Trump’ın
+v 578 zaferine
+v 579 şaşırdılar
+v 580 tweet_30691:1416636571
+v 581 Ahmet
+v 582 Hakan:
+v 583 Obama’nın
+v 584 yana
+v 585 yakıla
+v 586 arandığı
+v 587 günlere
+v 588 hazırlıklı
+v 589 mı
+v 590 olsak
+v 591 acaba?
+v 592 tweet_30692:1416636571
+v 593 Y.
+v 594 Yılmaz:
+v 595 çok
+v 596 hasar
+v 597 gören
+v 598 devletin
+v 599 ayakta
+v 600 uzun
+v 601 süre
+v 602 kalabilmesi
+v 603 zor
+v 604 tweet_30693:3233892120
+v 605 KAREL
+v 606 ELEKTRONİK
+v 607 ##KAREL
+v 608 tweet_30694:1416636571
+v 609 10
+v 610 Kasım’da
+v 611 "bayram"
+v 612 mesajı
+v 613 tweet_30695:1416636571
+v 614 Umur
+v 615 Talu:
+v 616 ‘Herkesin
+v 617 başkanı’
+v 618 olmak
+v 619 kolay
+v 620 değil;
+v 621 çünkü
+v 622 ABD’de
+v 623 burada
+v 624 ‘herkes’
+v 625 herkes
+v 626 değil
+v 627 tweet_30696:3233892120
+v 628 KORDSA
+v 629 GLOBAL
+v 630 ##KORDS
+v 631 tweet_30697:564989988
+v 632 Darbe
+v 633 gecesi
+v 634 Akın
+v 635 Öztürk’le
+v 636 görüşen
+v 637 isim
+v 638 gözaltında
+v 639 tweet_30698:923909491
+v 640 tweet_30699:1416636571
+v 641 tweet_30700:1416636571
+v 642 tweet_30701:1416636571
+v 643 Terör
+v 644 Saldırısında
+v 645 Yaralanan
+v 646 Muhammet
+v 647 Fatih
+v 648 Safitürk
+v 649 tweet_30702:1416636571
+v 650 Mardin'de
+v 651 kaymakam
+v 652 tweet_30703:1416636571
+v 653 tweet_30704:1416636571
+v 654 tweet_30705:1416636571
+v 655 tweet_30706:923909491
+v 656 tweet_30707:564989988
+v 657 tweet_30708:923909491
+v 658 tweet_30709:564989988
+v 659 tweet_30710:1416636571
+v 660 tweet_30711:1416636571
+v 661 tweet_30712:1416636571
+v 662 tweet_30713:564989988
+v 663 girişimi
+v 664 Öztürk’ün
+v 665 eski
+v 666 emir
+v 667 subayı
+v 668 gözaltına
+v 669 alındı
+v 670 tweet_30714:923909491
+v 671 tweet_30715:1416636571
+v 672 tweet_30716:1416636571
+v 673 maddede
+v 674 Trump
+v 675 kazandı?
+v 676 tweet_30717:1416636571
+v 677 Erdoğan’a
+v 678 Türkiye:
+v 679 Hiçbir
+v 680 dönemde
+v 681 özgür,
+v 682 huzurlu
+v 683 dönem
+v 684 yaşamadı
+v 685 tweet_30718:1416636571
+v 686 Mars'ta
+v 687 "öpücük
+v 688 gönderen
+v 689 uzaylı"
+v 690 tweet_30719:1416636571
+v 691 tweet_30720:3233892120
+v 692 MARSHALL
+v 693 ##MRSHL
+v 694 tweet_30721:3233892120
+v 695 A.V.O.D
+v 696 GIDA
+v 697 TARIM
+v 698 ##AVOD
+v 699 tweet_30722:3233892120
+v 700 İHLAS
+v 701 MADENCİLİK
+v 702 ##IHMAD
+v 703 tweet_30723:3233892120
+v 704 SELÇUK
+v 705 ECZA
+v 706 DEPOSU
+v 707 ##SELEC
+v 708 tweet_30724:923909491
+v 709 TSK’da
+v 710 düzenleme:
+v 711 Sivil
+v 712 memurlardan
+v 713 kadınlar
+v 714 başörtüsüyle,
+v 715 erkekler
+v 716 kirli
+v 717 sakalla
+v 718 çalışabilecek…
+v 719 tweet_30725:1416636571
+v 720 tweet_30726:564989988
+e 0 4 1
+e 0 15 1
+e 0 23 1
+e 0 31 1
+e 0 34 1
+e 0 45 1
+e 0 46 1
+e 0 53 1
+e 0 54 1
+e 0 55 1
+e 0 60 1
+e 0 70 1
+e 0 71 1
+e 0 72 1
+e 0 78 1
+e 0 84 1
+e 0 85 1
+e 0 86 1
+e 0 87 1
+e 0 92 1
+e 0 98 1
+e 0 99 1
+e 0 108 1
+e 0 115 1
+e 0 116 1
+e 0 117 1
+e 0 118 1
+e 0 119 1
+e 0 120 1
+e 0 121 1
+e 0 122 1
+e 0 127 1
+e 0 128 1
+e 0 141 1
+e 0 142 1
+e 0 143 1
+e 0 150 1
+e 0 151 1
+e 0 155 1
+e 0 167 1
+e 0 171 1
+e 0 184 1
+e 0 185 1
+e 0 186 1
+e 0 187 1
+e 0 188 1
+e 0 193 1
+e 0 194 1
+e 0 205 1
+e 0 206 1
+e 0 207 1
+e 0 211 1
+e 0 224 1
+e 0 225 1
+e 0 226 1
+e 0 240 1
+e 0 241 1
+e 0 248 1
+e 0 249 1
+e 0 259 1
+e 0 265 1
+e 0 271 1
+e 0 282 1
+e 0 284 1
+e 0 287 1
+e 0 295 1
+e 0 296 1
+e 0 297 1
+e 0 298 1
+e 0 300 1
+e 0 302 1
+e 0 311 1
+e 0 321 1
+e 0 322 1
+e 0 331 1
+e 0 332 1
+e 0 335 1
+e 0 339 1
+e 0 346 1
+e 0 353 1
+e 0 359 1
+e 0 367 1
+e 0 372 1
+e 0 395 1
+e 0 409 1
+e 0 422 1
+e 0 432 1
+e 0 434 1
+e 0 436 1
+e 0 437 1
+e 0 441 1
+e 0 448 1
+e 0 455 1
+e 0 461 1
+e 0 465 1
+e 0 470 1
+e 0 476 1
+e 0 480 1
+e 0 486 1
+e 0 487 1
+e 0 493 1
+e 0 504 1
+e 0 512 1
+e 0 524 1
+e 0 535 1
+e 0 548 1
+e 0 561 1
+e 0 571 1
+e 0 580 1
+e 0 592 1
+e 0 608 1
+e 0 613 1
+e 0 640 1
+e 0 641 1
+e 0 642 1
+e 0 649 1
+e 0 652 1
+e 0 653 1
+e 0 654 1
+e 0 659 1
+e 0 660 1
+e 0 661 1
+e 0 671 1
+e 0 672 1
+e 0 676 1
+e 0 685 1
+e 0 690 1
+e 0 719 1
+e 1 2 1
+e 1 3 1
+e 3 4 1
+e 3 15 1
+e 3 23 1
+e 3 25 1
+e 3 31 1
+e 3 33 1
+e 3 34 1
+e 3 44 1
+e 3 45 1
+e 3 46 1
+e 3 52 1
+e 3 53 1
+e 3 54 1
+e 3 55 1
+e 3 60 1
+e 3 70 1
+e 3 71 1
+e 3 72 1
+e 3 78 1
+e 3 84 1
+e 3 85 1
+e 3 86 1
+e 3 87 1
+e 3 92 1
+e 3 98 1
+e 3 99 1
+e 3 108 1
+e 3 115 1
+e 3 116 1
+e 3 117 1
+e 3 118 1
+e 3 119 1
+e 3 120 1
+e 3 121 1
+e 3 122 1
+e 3 127 1
+e 3 128 1
+e 3 141 1
+e 3 142 1
+e 3 143 1
+e 3 150 1
+e 3 151 1
+e 3 155 1
+e 3 167 1
+e 3 171 1
+e 3 184 1
+e 3 185 1
+e 3 186 1
+e 3 187 1
+e 3 188 1
+e 3 193 1
+e 3 194 1
+e 3 205 1
+e 3 206 1
+e 3 207 1
+e 3 211 1
+e 3 224 1
+e 3 225 1
+e 3 226 1
+e 3 240 1
+e 3 241 1
+e 3 248 1
+e 3 249 1
+e 3 259 1
+e 3 265 1
+e 3 271 1
+e 3 274 1
+e 3 282 1
+e 3 283 1
+e 3 284 1
+e 3 285 1
+e 3 286 1
+e 3 287 1
+e 3 295 1
+e 3 296 1
+e 3 297 1
+e 3 298 1
+e 3 299 1
+e 3 300 1
+e 3 301 1
+e 3 302 1
+e 3 311 1
+e 3 321 1
+e 3 322 1
+e 3 331 1
+e 3 332 1
+e 3 335 1
+e 3 339 1
+e 3 346 1
+e 3 353 1
+e 3 359 1
+e 3 367 1
+e 3 371 1
+e 3 372 1
+e 3 378 1
+e 3 379 1
+e 3 380 1
+e 3 382 1
+e 3 395 1
+e 3 409 1
+e 3 420 1
+e 3 421 1
+e 3 422 1
+e 3 432 1
+e 3 433 1
+e 3 434 1
+e 3 435 1
+e 3 436 1
+e 3 437 1
+e 3 441 1
+e 3 448 1
+e 3 455 1
+e 3 461 1
+e 3 465 1
+e 3 470 1
+e 3 476 1
+e 3 480 1
+e 3 486 1
+e 3 487 1
+e 3 493 1
+e 3 504 1
+e 3 512 1
+e 3 524 1
+e 3 535 1
+e 3 548 1
+e 3 561 1
+e 3 571 1
+e 3 580 1
+e 3 592 1
+e 3 604 1
+e 3 608 1
+e 3 613 1
+e 3 627 1
+e 3 631 1
+e 3 639 1
+e 3 640 1
+e 3 641 1
+e 3 642 1
+e 3 649 1
+e 3 652 1
+e 3 653 1
+e 3 654 1
+e 3 655 1
+e 3 656 1
+e 3 657 1
+e 3 658 1
+e 3 659 1
+e 3 660 1
+e 3 661 1
+e 3 662 1
+e 3 670 1
+e 3 671 1
+e 3 672 1
+e 3 676 1
+e 3 685 1
+e 3 690 1
+e 3 691 1
+e 3 694 1
+e 3 699 1
+e 3 703 1
+e 3 708 1
+e 3 719 1
+e 3 720 1
+e 4 5 1
+e 5 6 1
+e 5 23 1
+e 5 54 1
+e 6 7 1
+e 7 8 1
+e 7 28 1
+e 7 35 1
+e 7 27 1
+e 7 62 1
+e 7 94 1
+e 7 109 1
+e 7 213 1
+e 7 244 1
+e 7 275 1
+e 8 9 1
+e 8 17 1
+e 8 18 1
+e 8 29 1
+e 8 38 1
+e 8 37 1
+e 8 63 1
+e 8 95 1
+e 8 100 1
+e 8 110 1
+e 8 130 1
+e 8 131 1
+e 8 147 1
+e 8 148 1
+e 8 156 1
+e 8 173 1
+e 8 174 1
+e 8 195 1
+e 8 196 1
+e 8 215 1
+e 8 216 1
+e 8 228 1
+e 8 229 1
+e 8 245 1
+e 8 246 1
+e 8 250 1
+e 8 266 1
+e 8 276 1
+e 9 10 1
+e 10 11 1
+e 11 12 1
+e 12 13 1
+e 13 14 1
+e 15 16 1
+e 16 17 1
+e 16 53 1
+e 16 143 1
+e 16 150 1
+e 16 185 1
+e 17 27 1
+e 18 19 1
+e 19 20 1
+e 20 21 1
+e 20 176 1
+e 20 177 1
+e 20 250 1
+e 20 251 1
+e 20 304 1
+e 20 305 1
+e 20 385 1
+e 20 386 1
+e 20 528 1
+e 20 511 1
+e 21 22 1
+e 24 25 1
+e 24 52 1
+e 24 274 1
+e 24 285 1
+e 24 299 1
+e 24 379 1
+e 24 380 1
+e 24 421 1
+e 24 435 1
+e 24 639 1
+e 24 655 1
+e 24 657 1
+e 24 670 1
+e 24 708 1
+e 25 26 1
+e 26 27 1
+e 26 31 1
+e 26 33 1
+e 26 44 1
+e 26 45 1
+e 26 52 1
+e 27 28 1
+e 27 36 1
+e 27 136 1
+e 27 137 1
+e 27 144 1
+e 27 214 1
+e 27 245 1
+e 27 173 1
+e 29 30 1
+e 32 33 1
+e 32 44 1
+e 32 283 1
+e 32 286 1
+e 32 301 1
+e 32 371 1
+e 32 378 1
+e 32 420 1
+e 32 433 1
+e 32 631 1
+e 32 656 1
+e 32 658 1
+e 32 662 1
+e 32 720 1
+e 34 35 1
+e 35 46 1
+e 35 85 1
+e 36 37 1
+e 37 38 1
+e 37 39 1
+e 39 40 1
+e 40 41 1
+e 41 42 1
+e 42 43 1
+e 42 47 1
+e 47 48 1
+e 48 49 1
+e 49 50 1
+e 50 51 1
+e 50 622 1
+e 50 623 1
+e 55 56 1
+e 56 57 1
+e 56 71 1
+e 57 58 1
+e 58 59 1
+e 60 61 1
+e 61 62 1
+e 61 70 1
+e 61 86 1
+e 63 64 1
+e 64 65 1
+e 64 158 1
+e 64 159 1
+e 65 66 1
+e 66 67 1
+e 67 68 1
+e 68 69 1
+e 72 73 1
+e 73 74 1
+e 74 75 1
+e 75 76 1
+e 76 77 1
+e 77 210 1
+e 77 479 1
+e 77 412 1
+e 78 79 1
+e 79 80 1
+e 79 84 1
+e 80 81 1
+e 81 82 1
+e 82 83 1
+e 87 88 1
+e 88 89 1
+e 89 90 1
+e 90 91 1
+e 92 93 1
+e 93 94 1
+e 93 98 1
+e 93 99 1
+e 93 115 1
+e 93 117 1
+e 93 118 1
+e 93 119 1
+e 93 120 1
+e 93 127 1
+e 95 96 1
+e 96 97 1
+e 100 101 1
+e 101 102 1
+e 101 180 1
+e 101 181 1
+e 102 103 1
+e 103 104 1
+e 104 105 1
+e 105 106 1
+e 106 107 1
+e 107 386 1
+e 107 387 1
+e 107 607 1
+e 107 630 1
+e 107 693 1
+e 107 698 1
+e 107 702 1
+e 107 707 1
+e 108 109 1
+e 109 116 1
+e 109 121 1
+e 110 111 1
+e 110 490 1
+e 110 491 1
+e 111 112 1
+e 112 113 1
+e 113 114 1
+e 122 123 1
+e 123 124 1
+e 124 125 1
+e 125 126 1
+e 128 129 1
+e 129 130 1
+e 129 141 1
+e 129 142 1
+e 130 155 1
+e 130 167 1
+e 130 186 1
+e 131 132 1
+e 132 133 1
+e 133 134 1
+e 133 696 1
+e 133 697 1
+e 134 135 1
+e 135 136 1
+e 137 138 1
+e 138 139 1
+e 139 140 1
+e 144 145 1
+e 145 146 1
+e 146 147 1
+e 148 149 1
+e 151 152 1
+e 152 153 1
+e 153 154 1
+e 156 157 1
+e 157 158 1
+e 159 160 1
+e 160 161 1
+e 161 162 1
+e 162 163 1
+e 163 164 1
+e 164 165 1
+e 165 166 1
+e 165 168 1
+e 168 169 1
+e 169 170 1
+e 170 273 1
+e 171 172 1
+e 172 173 1
+e 172 184 1
+e 172 187 1
+e 172 249 1
+e 172 259 1
+e 172 297 1
+e 174 175 1
+e 175 176 1
+e 177 178 1
+e 177 219 1
+e 177 460 1
+e 178 179 1
+e 179 180 1
+e 181 182 1
+e 182 183 1
+e 188 189 1
+e 189 190 1
+e 189 193 1
+e 190 191 1
+e 191 192 1
+e 194 195 1
+e 195 205 1
+e 195 206 1
+e 196 197 1
+e 197 198 1
+e 198 199 1
+e 199 200 1
+e 200 201 1
+e 201 202 1
+e 202 203 1
+e 203 204 1
+e 207 208 1
+e 208 209 1
+e 209 210 1
+e 211 212 1
+e 212 213 1
+e 212 224 1
+e 212 225 1
+e 214 215 1
+e 216 217 1
+e 217 218 1
+e 218 219 1
+e 219 220 1
+e 219 459 1
+e 220 221 1
+e 221 222 1
+e 222 223 1
+e 226 227 1
+e 227 228 1
+e 227 240 1
+e 227 295 1
+e 229 230 1
+e 230 231 1
+e 231 232 1
+e 232 233 1
+e 233 234 1
+e 234 235 1
+e 235 236 1
+e 236 237 1
+e 237 238 1
+e 238 239 1
+e 241 242 1
+e 242 243 1
+e 242 248 1
+e 242 265 1
+e 242 271 1
+e 242 296 1
+e 242 298 1
+e 243 244 1
+e 246 247 1
+e 251 252 1
+e 252 253 1
+e 253 254 1
+e 254 255 1
+e 255 256 1
+e 256 257 1
+e 257 258 1
+e 257 260 1
+e 260 261 1
+e 261 262 1
+e 262 263 1
+e 263 264 1
+e 266 267 1
+e 267 268 1
+e 268 269 1
+e 269 270 1
+e 269 272 1
+e 272 273 1
+e 274 275 1
+e 275 282 1
+e 275 283 1
+e 275 284 1
+e 275 285 1
+e 275 286 1
+e 275 299 1
+e 275 300 1
+e 275 301 1
+e 276 277 1
+e 277 278 1
+e 278 279 1
+e 279 280 1
+e 280 281 1
+e 287 288 1
+e 288 289 1
+e 289 290 1
+e 290 291 1
+e 291 292 1
+e 292 293 1
+e 293 294 1
+e 302 303 1
+e 303 304 1
+e 303 353 1
+e 303 354 1
+e 303 461 1
+e 305 306 1
+e 306 307 1
+e 307 308 1
+e 307 332 1
+e 307 354 1
+e 308 309 1
+e 308 333 1
+e 308 462 1
+e 309 310 1
+e 309 648 1
+e 311 312 1
+e 312 313 1
+e 312 321 1
+e 313 314 1
+e 314 315 1
+e 315 316 1
+e 316 317 1
+e 316 511 1
+e 316 412 1
+e 316 597 1
+e 316 598 1
+e 316 682 1
+e 316 683 1
+e 317 318 1
+e 318 319 1
+e 319 320 1
+e 322 323 1
+e 323 324 1
+e 323 331 1
+e 323 493 1
+e 323 494 1
+e 324 325 1
+e 325 326 1
+e 326 327 1
+e 326 674 1
+e 326 675 1
+e 327 328 1
+e 328 329 1
+e 329 330 1
+e 333 334 1
+e 333 355 1
+e 333 475 1
+e 335 336 1
+e 336 337 1
+e 336 468 1
+e 337 338 1
+e 337 469 1
+e 339 340 1
+e 340 341 1
+e 341 342 1
+e 342 343 1
+e 343 344 1
+e 344 345 1
+e 346 347 1
+e 347 348 1
+e 348 349 1
+e 349 350 1
+e 349 510 1
+e 349 511 1
+e 349 623 1
+e 349 624 1
+e 350 351 1
+e 351 352 1
+e 355 356 1
+e 356 357 1
+e 357 358 1
+e 359 360 1
+e 360 361 1
+e 361 362 1
+e 362 363 1
+e 363 364 1
+e 364 365 1
+e 364 437 1
+e 364 438 1
+e 365 366 1
+e 367 368 1
+e 368 369 1
+e 368 371 1
+e 368 379 1
+e 369 370 1
+e 369 709 1
+e 369 710 1
+e 372 373 1
+e 373 374 1
+e 373 378 1
+e 373 380 1
+e 374 375 1
+e 375 376 1
+e 376 377 1
+e 381 382 1
+e 381 604 1
+e 381 627 1
+e 381 691 1
+e 381 694 1
+e 381 699 1
+e 381 703 1
+e 382 383 1
+e 383 384 1
+e 384 385 1
+e 384 606 1
+e 384 629 1
+e 384 692 1
+e 384 697 1
+e 384 701 1
+e 384 706 1
+e 387 388 1
+e 388 389 1
+e 388 607 1
+e 388 630 1
+e 388 693 1
+e 388 698 1
+e 388 702 1
+e 388 707 1
+e 389 390 1
+e 390 391 1
+e 391 392 1
+e 392 393 1
+e 393 394 1
+e 395 396 1
+e 396 397 1
+e 396 420 1
+e 396 421 1
+e 396 432 1
+e 396 433 1
+e 396 435 1
+e 397 398 1
+e 398 399 1
+e 399 400 1
+e 400 401 1
+e 401 402 1
+e 402 403 1
+e 403 404 1
+e 404 405 1
+e 405 406 1
+e 406 407 1
+e 407 408 1
+e 408 689 1
+e 409 410 1
+e 410 411 1
+e 410 434 1
+e 411 412 1
+e 411 677 1
+e 411 678 1
+e 412 413 1
+e 412 439 1
+e 412 440 1
+e 413 414 1
+e 414 415 1
+e 415 416 1
+e 416 417 1
+e 417 418 1
+e 418 419 1
+e 418 577 1
+e 418 578 1
+e 422 423 1
+e 423 424 1
+e 423 436 1
+e 424 425 1
+e 425 426 1
+e 426 427 1
+e 427 428 1
+e 428 429 1
+e 429 430 1
+e 430 431 1
+e 438 439 1
+e 441 442 1
+e 442 443 1
+e 443 444 1
+e 444 445 1
+e 445 446 1
+e 446 447 1
+e 448 449 1
+e 449 450 1
+e 450 451 1
+e 451 452 1
+e 452 453 1
+e 453 454 1
+e 455 456 1
+e 456 457 1
+e 456 594 1
+e 456 559 1
+e 457 458 1
+e 458 459 1
+e 462 463 1
+e 463 464 1
+e 465 466 1
+e 466 467 1
+e 467 468 1
+e 468 663 1
+e 468 634 1
+e 470 471 1
+e 471 472 1
+e 472 473 1
+e 472 477 1
+e 473 474 1
+e 474 475 1
+e 474 478 1
+e 474 645 1
+e 476 477 1
+e 478 479 1
+e 478 646 1
+e 479 651 1
+e 480 481 1
+e 481 482 1
+e 481 486 1
+e 482 483 1
+e 483 484 1
+e 484 485 1
+e 487 488 1
+e 488 489 1
+e 489 490 1
+e 491 492 1
+e 494 495 1
+e 495 496 1
+e 496 497 1
+e 496 499 1
+e 496 500 1
+e 497 498 1
+e 498 499 1
+e 500 501 1
+e 501 502 1
+e 502 503 1
+e 504 505 1
+e 505 506 1
+e 506 507 1
+e 507 508 1
+e 508 509 1
+e 509 510 1
+e 511 529 1
+e 512 513 1
+e 513 514 1
+e 513 592 1
+e 513 593 1
+e 514 515 1
+e 515 516 1
+e 516 517 1
+e 517 518 1
+e 518 519 1
+e 519 520 1
+e 520 521 1
+e 521 522 1
+e 521 567 1
+e 521 568 1
+e 522 523 1
+e 524 525 1
+e 525 526 1
+e 526 527 1
+e 527 528 1
+e 529 530 1
+e 530 531 1
+e 531 532 1
+e 532 533 1
+e 533 534 1
+e 535 536 1
+e 536 537 1
+e 537 538 1
+e 538 539 1
+e 539 540 1
+e 540 541 1
+e 541 542 1
+e 542 543 1
+e 543 544 1
+e 544 545 1
+e 545 546 1
+e 546 547 1
+e 548 549 1
+e 549 550 1
+e 550 551 1
+e 551 552 1
+e 552 553 1
+e 553 554 1
+e 554 555 1
+e 555 556 1
+e 556 557 1
+e 557 558 1
+e 558 559 1
+e 558 680 1
+e 559 560 1
+e 559 595 1
+e 559 681 1
+e 561 562 1
+e 562 563 1
+e 563 564 1
+e 564 565 1
+e 565 566 1
+e 566 567 1
+e 568 569 1
+e 569 570 1
+e 571 572 1
+e 572 573 1
+e 573 574 1
+e 574 575 1
+e 575 576 1
+e 576 577 1
+e 578 579 1
+e 580 581 1
+e 581 582 1
+e 582 583 1
+e 583 584 1
+e 584 585 1
+e 585 586 1
+e 586 587 1
+e 587 588 1
+e 588 589 1
+e 589 590 1
+e 590 591 1
+e 593 594 1
+e 595 596 1
+e 595 602 1
+e 595 603 1
+e 596 597 1
+e 598 599 1
+e 599 600 1
+e 600 601 1
+e 601 602 1
+e 604 605 1
+e 605 606 1
+e 608 609 1
+e 609 610 1
+e 609 641 1
+e 609 653 1
+e 609 661 1
+e 609 672 1
+e 609 673 1
+e 610 611 1
+e 611 612 1
+e 613 614 1
+e 614 615 1
+e 615 616 1
+e 616 617 1
+e 617 618 1
+e 618 619 1
+e 619 620 1
+e 620 621 1
+e 621 622 1
+e 624 625 1
+e 625 626 1
+e 627 628 1
+e 628 629 1
+e 631 632 1
+e 632 633 1
+e 632 639 1
+e 632 640 1
+e 632 652 1
+e 632 655 1
+e 632 656 1
+e 632 657 1
+e 632 658 1
+e 632 659 1
+e 632 662 1
+e 632 663 1
+e 632 670 1
+e 632 671 1
+e 633 634 1
+e 634 635 1
+e 634 664 1
+e 635 636 1
+e 636 637 1
+e 637 638 1
+e 642 643 1
+e 643 644 1
+e 643 654 1
+e 643 660 1
+e 644 645 1
+e 646 647 1
+e 647 648 1
+e 649 650 1
+e 650 651 1
+e 664 665 1
+e 665 666 1
+e 666 667 1
+e 667 668 1
+e 668 669 1
+e 673 674 1
+e 676 677 1
+e 678 679 1
+e 679 680 1
+e 681 682 1
+e 683 684 1
+e 685 686 1
+e 686 687 1
+e 686 690 1
+e 687 688 1
+e 688 689 1
+e 691 692 1
+e 694 695 1
+e 695 696 1
+e 699 700 1
+e 700 701 1
+e 703 704 1
+e 704 705 1
+e 705 706 1
+e 708 709 1
+e 709 719 1
+e 709 720 1
+e 710 711 1
+e 711 712 1
+e 712 713 1
+e 713 714 1
+e 714 715 1
+e 715 716 1
+e 716 717 1
+e 717 718 1
+t # 6
+v 0 923909491
+v 1 11.2016
+v 2 2016
+v 3 12.11.2016
+v 4 tweet_30727:923909491
+v 5 AKP’nin
+v 6 anayasa
+v 7 taslağı:
+v 8 ‘Tam
+v 9 başkanlık’
+v 10 gelecek,
+v 11 YÖK
+v 12 ve
+v 13 MGK
+v 14 kaldırılacak
+v 15 564989988
+v 16 tweet_30728:564989988
+v 17 605871408
+v 18 tweet_30729:605871408
+v 19 tweet_30730:605871408
+v 20 tweet_30731:564989988
+v 21 1416636571
+v 22 tweet_30732:1416636571
+v 23 tweet_30733:923909491
+v 24 tweet_30734:605871408
+v 25 tweet_30735:564989988
+v 26 tweet_30736:1416636571
+v 27 tweet_30737:923909491
+v 28 tweet_30738:605871408
+v 29 Merkez
+v 30 Bankası'ndan
+v 31 faiz
+v 32 indirimi
+v 33 tweet_30739:923909491
+v 34 tweet_30740:564989988
+v 35 tweet_30741:1416636571
+e 0 4 1
+e 0 23 1
+e 0 27 1
+e 0 33 1
+e 1 2 1
+e 1 3 1
+e 3 4 1
+e 3 16 1
+e 3 18 1
+e 3 19 1
+e 3 20 1
+e 3 22 1
+e 3 23 1
+e 3 24 1
+e 3 25 1
+e 3 26 1
+e 3 27 1
+e 3 28 1
+e 3 33 1
+e 3 34 1
+e 3 35 1
+e 4 5 1
+e 5 6 1
+e 5 16 1
+e 5 18 1
+e 5 19 1
+e 5 20 1
+e 5 22 1
+e 5 23 1
+e 5 24 1
+e 5 25 1
+e 5 26 1
+e 5 27 1
+e 6 7 1
+e 7 8 1
+e 8 9 1
+e 9 10 1
+e 10 11 1
+e 11 12 1
+e 12 13 1
+e 13 14 1
+e 15 16 1
+e 15 20 1
+e 15 25 1
+e 15 34 1
+e 17 18 1
+e 17 19 1
+e 17 24 1
+e 17 28 1
+e 21 22 1
+e 21 26 1
+e 21 35 1
+e 28 29 1
+e 29 30 1
+e 29 33 1
+e 29 34 1
+e 29 35 1
+e 30 31 1
+e 31 32 1
+t # 7
+v 0 3233892120
+v 1 11.2016
+v 2 2016
+v 3 14.11.2016
+v 4 tweet_30742:3233892120
+v 5 (K.A.P
+v 6 BİLDİRİSİ)
+v 7 -
+v 8 10
+v 9 Kasım
+v 10 2016
+v 11 EKGYO
+v 12 ***
+v 13 EMLAK
+v 14 KONUT
+v 15 GAYRİMENKUL
+v 16 YATI...
+v 17 ##EKGYO
+v 18 #hisse
+v 19 #borsa
+v 20 #bist
+v 21 #kap
+v 22 tweet_30743:3233892120
+v 23 11
+v 24 SANKO
+v 25 PAZARLAMA
+v 26 İTHALAT
+v 27 İHRA...
+v 28 ##SANKO
+v 29 tweet_30744:3233892120
+v 30 tweet_30745:3233892120
+v 31 565848357
+v 32 tweet_30746:565848357
+v 33 RT
+v 34 @aytunbilgin:
+v 35 ABD'de
+v 36 tarihsel
+v 37 anlamda
+v 38 uzun
+v 39 vadeli
+v 40 tahvil
+v 41 faiz
+v 42 düşüşü
+v 43 Iran-Tahran
+v 44 Büyük
+v 45 Elçilik
+v 46 baskını
+v 47 sonrası
+v 48 dönemde
+v 49 başlar...
+v 50 tweet_30747:565848357
+v 51 Uzun
+v 52 dönem
+v 53 fiyatlarını
+v 54 çok
+v 55 yukarılara
+v 56 çekti.
+v 57 Son
+v 58 gelen
+v 59 satışlar
+v 60 ise
+v 61 bir
+v 62 dönüşün
+v 63 ilk
+v 64 sinyali
+v 65 mi…
+v 66 tweet_30748:565848357
+v 67 değer
+v 68 kayıpları
+v 69 devam
+v 70 ediyor.
+v 71 Satışlar
+v 72 ABD
+v 73 30
+v 74 yıllık
+v 75 tahvillerinde
+v 76 oldukça
+v 77 net
+v 78 :
+v 79 tweet_30749:565848357
+v 80 Tahvil
+v 81 piyasalarında
+v 82 "ayrı
+v 83 yeri"
+v 84 olan
+v 85 İtalyan
+v 86 kağıtlarında
+v 87 kayıplar
+v 88 %15'lere
+v 89 geldi
+v 90 Tahvilleri
+v 91 ci…
+v 92 tweet_30750:3233892120
+v 93 tweet_30751:3233892120
+v 94 COMDO
+v 95 COMPONENTA
+v 96 DÖKÜMCÜLÜK
+v 97 TİCARE...
+v 98 ##COMDO
+v 99 tweet_30752:3233892120
+v 100 12
+v 101 KSTUR
+v 102 KUŞTUR
+v 103 KUŞADASI
+v 104 TURİZM
+v 105 ENDÜS...
+v 106 ##KSTUR
+v 107 tweet_30753:3233892120
+v 108 13
+v 109 MAALT
+v 110 MARMARİS
+v 111 ALTINYUNUS
+v 112 TURİSTİK...
+v 113 ##MAALT
+v 114 tweet_30754:3233892120
+v 115 GÖLTAŞ
+v 116 ÇİMENTO
+v 117 haber,
+v 118 yorum
+v 119 ve
+v 120 analizleri
+v 121 !
+v 122 ##GOLTS
+v 123 #finans
+v 124 #ekonomi
+v 125 #dolar
+v 126 #euro
+v 127 tweet_30755:3233892120
+v 128 14
+v 129 POLHO
+v 130 KAMUYU
+v 131 AYDINLATMA
+v 132 PLATFORMU(...
+v 133 ##POLHO
+v 134 tweet_30756:3233892120
+v 135 INTEM
+v 136 ##INTEM
+v 137 tweet_30757:3233892120
+v 138 tweet_30758:3233892120
+v 139 AKSGY
+v 140 AKİŞ
+v 141 YATIRIM
+v 142 ORT...
+v 143 ##AKSGY
+v 144 tweet_30759:3233892120
+v 145 tweet_30760:3233892120
+v 146 AFYON
+v 147 BORSA
+v 148 İSTANBUL
+v 149 A.Ş.(
+v 150 BISTECH...
+v 151 ##AFYON
+v 152 tweet_30761:3233892120
+v 153 PRZMA
+v 154 ##PRZMA
+v 155 tweet_30762:3233892120
+v 156 TCELL
+v 157 TURKCELL
+v 158 İLETİŞİM
+v 159 HİZMETLERİ...
+v 160 ##TCELL
+v 161 tweet_30763:3233892120
+v 162 tweet_30764:3233892120
+v 163 MCTAS
+v 164 MCT
+v 165 DANIŞMANLIK
+v 166 Herhan...
+v 167 ##MCTAS
+v 168 tweet_30765:3233892120
+v 169 tweet_30766:3233892120
+v 170 SANAYİ
+v 171 TÜRK
+v 172 A....
+v 173 tweet_30767:3233892120
+v 174 tweet_30768:3233892120
+v 175 ULUUN
+v 176 ULUSOY
+v 177 UN
+v 178 VE
+v 179 TİCARET
+v 180 ...
+v 181 ##ULUUN
+v 182 tweet_30769:3233892120
+v 183 tweet_30770:3233892120
+v 184 BOLUC
+v 185 BISTECH
+v 186 DEVRE...
+v 187 ##BOLUC
+v 188 tweet_30771:3233892120
+v 189 ULKER
+v 190 ##ULKER
+v 191 tweet_30772:3233892120
+v 192 YKBNK
+v 193 YAPI
+v 194 KREDİ
+v 195 BANKASI
+v 196 ##YKBNK
+v 197 tweet_30773:3233892120
+v 198 SRVGY
+v 199 ##SRVGY
+e 0 4 1
+e 0 22 1
+e 0 29 1
+e 0 30 1
+e 0 92 1
+e 0 93 1
+e 0 99 1
+e 0 107 1
+e 0 114 1
+e 0 127 1
+e 0 134 1
+e 0 137 1
+e 0 138 1
+e 0 144 1
+e 0 145 1
+e 0 152 1
+e 0 155 1
+e 0 161 1
+e 0 162 1
+e 0 168 1
+e 0 169 1
+e 0 173 1
+e 0 174 1
+e 0 182 1
+e 0 183 1
+e 0 188 1
+e 0 191 1
+e 0 197 1
+e 1 2 1
+e 1 3 1
+e 3 4 1
+e 3 22 1
+e 3 29 1
+e 3 30 1
+e 3 32 1
+e 3 50 1
+e 3 66 1
+e 3 79 1
+e 3 92 1
+e 3 93 1
+e 3 99 1
+e 3 107 1
+e 3 114 1
+e 3 127 1
+e 3 134 1
+e 3 137 1
+e 3 138 1
+e 3 144 1
+e 3 145 1
+e 3 152 1
+e 3 155 1
+e 3 161 1
+e 3 162 1
+e 3 168 1
+e 3 169 1
+e 3 173 1
+e 3 174 1
+e 3 182 1
+e 3 183 1
+e 3 188 1
+e 3 191 1
+e 3 197 1
+e 4 5 1
+e 5 6 1
+e 5 22 1
+e 5 29 1
+e 5 30 1
+e 5 92 1
+e 5 93 1
+e 5 99 1
+e 5 107 1
+e 5 127 1
+e 5 134 1
+e 5 137 1
+e 5 138 1
+e 5 144 1
+e 5 145 1
+e 5 152 1
+e 5 155 1
+e 5 161 1
+e 5 162 1
+e 5 168 1
+e 5 169 1
+e 5 173 1
+e 5 174 1
+e 5 182 1
+e 5 183 1
+e 5 188 1
+e 5 191 1
+e 5 197 1
+e 6 7 1
+e 7 8 1
+e 7 10 1
+e 7 11 1
+e 7 12 1
+e 7 23 1
+e 7 24 1
+e 7 94 1
+e 7 100 1
+e 7 101 1
+e 7 108 1
+e 7 109 1
+e 7 128 1
+e 7 129 1
+e 7 135 1
+e 7 139 1
+e 7 146 1
+e 7 153 1
+e 7 156 1
+e 7 163 1
+e 7 175 1
+e 7 184 1
+e 7 189 1
+e 7 192 1
+e 7 198 1
+e 8 9 1
+e 9 10 1
+e 9 23 1
+e 9 100 1
+e 9 108 1
+e 9 128 1
+e 12 13 1
+e 12 24 1
+e 12 95 1
+e 12 102 1
+e 12 110 1
+e 12 130 1
+e 12 140 1
+e 12 147 1
+e 12 157 1
+e 12 164 1
+e 12 146 1
+e 12 176 1
+e 12 193 1
+e 13 14 1
+e 14 15 1
+e 15 16 1
+e 15 140 1
+e 15 141 1
+e 16 17 1
+e 17 18 1
+e 18 19 1
+e 18 28 1
+e 18 98 1
+e 18 106 1
+e 18 113 1
+e 18 122 1
+e 18 133 1
+e 18 136 1
+e 18 143 1
+e 18 151 1
+e 18 154 1
+e 18 160 1
+e 18 167 1
+e 18 181 1
+e 18 187 1
+e 18 190 1
+e 18 196 1
+e 18 199 1
+e 19 20 1
+e 20 21 1
+e 20 123 1
+e 24 25 1
+e 25 26 1
+e 26 27 1
+e 27 28 1
+e 31 32 1
+e 31 50 1
+e 31 66 1
+e 31 79 1
+e 32 33 1
+e 33 34 1
+e 33 50 1
+e 33 66 1
+e 33 79 1
+e 34 35 1
+e 34 51 1
+e 34 80 1
+e 35 36 1
+e 36 37 1
+e 37 38 1
+e 38 39 1
+e 38 84 1
+e 39 40 1
+e 39 51 1
+e 39 85 1
+e 40 41 1
+e 40 42 1
+e 40 53 1
+e 40 67 1
+e 41 42 1
+e 41 52 1
+e 42 43 1
+e 43 44 1
+e 44 45 1
+e 45 46 1
+e 46 47 1
+e 47 48 1
+e 48 49 1
+e 48 57 1
+e 48 58 1
+e 51 52 1
+e 53 54 1
+e 54 55 1
+e 55 56 1
+e 56 57 1
+e 58 59 1
+e 59 60 1
+e 60 61 1
+e 61 62 1
+e 61 82 1
+e 61 83 1
+e 62 63 1
+e 63 64 1
+e 64 65 1
+e 67 68 1
+e 68 69 1
+e 69 70 1
+e 70 71 1
+e 71 72 1
+e 72 73 1
+e 73 74 1
+e 74 75 1
+e 75 76 1
+e 76 77 1
+e 77 78 1
+e 78 89 1
+e 78 85 1
+e 80 81 1
+e 81 82 1
+e 83 84 1
+e 85 86 1
+e 85 90 1
+e 86 87 1
+e 87 88 1
+e 88 89 1
+e 90 91 1
+e 95 96 1
+e 96 97 1
+e 97 98 1
+e 102 103 1
+e 103 104 1
+e 104 105 1
+e 105 106 1
+e 110 111 1
+e 111 112 1
+e 112 113 1
+e 114 115 1
+e 115 116 1
+e 116 117 1
+e 116 146 1
+e 116 170 1
+e 117 118 1
+e 118 119 1
+e 119 120 1
+e 120 121 1
+e 121 122 1
+e 123 124 1
+e 124 125 1
+e 125 126 1
+e 130 131 1
+e 131 132 1
+e 132 133 1
+e 132 136 1
+e 132 154 1
+e 141 142 1
+e 142 143 1
+e 147 148 1
+e 148 149 1
+e 148 185 1
+e 149 150 1
+e 149 165 1
+e 149 166 1
+e 149 195 1
+e 149 180 1
+e 150 151 1
+e 151 172 1
+e 157 158 1
+e 158 159 1
+e 159 160 1
+e 164 165 1
+e 166 167 1
+e 170 171 1
+e 170 177 1
+e 170 178 1
+e 171 172 1
+e 176 177 1
+e 178 179 1
+e 178 193 1
+e 178 194 1
+e 179 180 1
+e 180 181 1
+e 180 196 1
+e 185 186 1
+e 186 187 1
+e 186 190 1
+e 186 199 1
+e 194 195 1
+t # -1
