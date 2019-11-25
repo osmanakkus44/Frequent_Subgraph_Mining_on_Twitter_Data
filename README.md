@@ -11,3 +11,6 @@ to a graph model and then retrieved all interested subgraphs with GSPAN algorith
 which is one of the best graph based frequent subgraph mining methods. This method
 applied based on the date range of the tweets to determine what kinda tweets have
 been written in a time range and then plotted a chart to represent them on this range.
+
+### Run
+All you need is a jupyter notebook.You run ```bitirme.ipynb```. I will add dataset soon.
