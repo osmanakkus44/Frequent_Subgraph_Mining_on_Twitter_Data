@@ -1,4 +1,4 @@
-# <div align = center>gSpan</div>
+# <div align = center>Frequents Subgraph Mining on Twitter Data</div>
 
 **gSpan** is an algorithm for mining frequent subgraphs.
 
