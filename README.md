@@ -13,4 +13,4 @@ applied based on the date range of the tweets to determine what kinda tweets hav
 been written in a time range and then plotted a chart to represent them on this range.
 
 ### Run
-All you need is a jupyter notebook.You run ```bitirme.ipynb```. I will add dataset soon.
+All you need is a jupyter notebook.You run ```bitirme.ipynb```. I will add dataset soon. Till that you can run it via existing data converted and saved data in ```graphdata.txt```.
